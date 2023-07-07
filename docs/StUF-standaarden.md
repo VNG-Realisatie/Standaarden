@@ -14,12 +14,12 @@ title: StUF Standaarden
 [Sectormodel HR: StUF-HR]()<br/>
 [LV Wet Kenbaarheid Publiekrechtelijke Beperkingen]()
 <br/><br/>
-[Sectormodel Zaken: StUF-ZKN]()v
+[Sectormodel Zaken: StUF-ZKN]()<br/>
 [Sectormodel Zaaktypen(-catalogus): StUF–ZTC]()<br/>
 [Zaak- en Documentservices]()<br/>
 [Documentcreatieservices](https://melsk-r.github.io/Documentcreatie-services/)<br/><br/>
 [Prefill eFormulierservices]()<br/>
-[Sectormodel e-Formulieren: StUF-EF]()v
+[Sectormodel e-Formulieren: StUF-EF]()<br/>
 [Sectormodel WOZ: StUF-WOZ]()<br/>
 [StUF BAG-GBA]()
 <br/><br/>
