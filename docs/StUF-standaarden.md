@@ -3,7 +3,7 @@ layout: landing-page
 title: StUF Standaarden
 ---
 # StUF Standaarden
-[StUF Onderlaag]()
+<!--[StUF Onderlaag]()
 <br/><br/>
 [Sectormodel Basisgegevens: StUF-BG]()<br/>
 [RSGB Bevragingen]()<br/>
@@ -28,11 +28,11 @@ title: StUF Standaarden
 [StUF-Geo BAG]()<br/>
 [LV Omgevingsloket]()<br/>
 [Sectormodel RIHa: StUF-RIHa]()
-<br/><br/>
+<br/><br/>-->
 [StUF Jeugdzorg (CORV)](https://vng-realisatie.github.io/StUF-Jeugdzorg/)<br/>
-[Regie- en zaakservices]()<br/>
+<!--[Regie- en zaakservices]()<br/>
 [StUF-GGk berichtenvelop ISD-Keten]()<br/>
 [Participatieladder]()<br/>
 [Kinderopvang]()
 <br/><br/>
-[Koppelvlak Betalen- en Invorderenservices]()
+[Koppelvlak Betalen- en Invorderenservices]()-->
