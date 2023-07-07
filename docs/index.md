@@ -32,5 +32,3 @@ De StUF-standaarden worden, voor zover daaraan behoefte is, de komende jaren gef
 - [Informatiemodellen](overzicht informatiemodellen): gestructureerde beschrijvingen van de structuur, semantiek en de eigenschappen van informatie over dingen in de 
 werkelijkheid. Nodig om alle betrokken duidelijkheid te verschaffen over de betekenis en samenhang van concepten en bijvoorbeeld bruikbaar als startpunt voor het 
 ontwikkelen van API-standaarden. Informatiemodellen in de GEMMA voldoen aan de [Metamodel voor Informatiemodellen (MIM)](https://www.forumstandaardisatie.nl/open-standaarden/mim ) standaard.
-
-
