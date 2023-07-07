@@ -29,7 +29,7 @@ title: StUF Standaarden
 [LV Omgevingsloket]()<br/>
 [Sectormodel RIHa: StUF-RIHa]()
 <br/><br/>
-[StUF Jeugdzorg (CORV)]()<br/>
+[StUF Jeugdzorg (CORV)](https://vng-realisatie.github.io/StUF-Jeugdzorg/)<br/>
 [Regie- en zaakservices]()<br/>
 [StUF-GGk berichtenvelop ISD-Keten]()<br/>
 [Participatieladder]()<br/>
