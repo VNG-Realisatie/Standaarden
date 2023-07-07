@@ -13,7 +13,7 @@ title: StUF Standaarden
 [Sectormodel Geo: StUF Geo IMGeo]()<br/>
 [Sectormodel HR: StUF-HR]()<br/>
 [LV Wet Kenbaarheid Publiekrechtelijke Beperkingen]()-->
-<br/><br/>
+<br/>
 [Sectormodel Zaken: StUF-ZKN](https://vng-realisatie.github.io/StUF-ZKN/)<br/>
 <!--[Sectormodel Zaaktypen(-catalogus): StUF–ZTC]()<br/>-->
 [Zaak- en Documentservices](https://vng-realisatie.github.io/Zaak-en-Documentservices/)<br/>
@@ -28,7 +28,7 @@ title: StUF Standaarden
 [StUF-Geo BAG]()<br/>
 [LV Omgevingsloket]()<br/>
 [Sectormodel RIHa: StUF-RIHa]()-->
-<br/><br/>
+<br/>
 [StUF Jeugdzorg (CORV)](https://vng-realisatie.github.io/StUF-Jeugdzorg/)<br/>
 <!--[Regie- en zaakservices]()<br/>
 [StUF-GGk berichtenvelop ISD-Keten]()<br/>
