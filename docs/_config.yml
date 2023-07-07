@@ -8,7 +8,7 @@ plugins:
 
 remote_theme: melsk-r/jekyll-theme-vng-realisatie
 
-github: VNG-Realisatie//Standaarden
+github: VNG-Realisatie/Standaarden
 
 theme: jekyll-theme-time-machine
 
