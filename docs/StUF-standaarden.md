@@ -6,10 +6,10 @@ title: StUF Standaarden
 [StUF Onderlaag](https://vng-realisatie.github.io/StUF-onderlaag/)
 ## StUF Sectormodellen
 [Sectormodel Basisgegevens: StUF-BG](https://vng-realisatie.github.io/StUF-BG/)<br/>
-<!--[Sectormodel Geo: StUF Geo IMGeo]()<br/>
-[Sectormodel HR: StUF-HR]()<br/>-->
 [Sectormodel Zaken: StUF-ZKN](https://vng-realisatie.github.io/StUF-ZKN/)<br/>
-<!--[Sectormodel Zaaktypen(-catalogus): StUF–ZTC]()<br/>
+[Sectormodel Zaaktypen(-catalogus): StUF–ZTC](https://vng-realisatie.github.io/StUF-ZTC/)<br/>
+<!--[Sectormodel Geo: StUF Geo IMGeo]()<br/>
+[Sectormodel HR: StUF-HR]()<br/>
 [Sectormodel e-Formulieren: StUF-EF]()<br/>
 [Sectormodel WOZ: StUF-WOZ]()<br/>
 [Sectormodel RIHa: StUF-RIHa]()-->
