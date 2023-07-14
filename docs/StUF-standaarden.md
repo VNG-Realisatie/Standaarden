@@ -4,7 +4,7 @@ title: StUF Standaarden
 ---
 # StUF Standaarden
 [StUF Onderlaag](https://vng-realisatie.github.io/StUF-onderlaag/)
-## StUF sectormodellen
+## StUF Sectormodellen
 [Sectormodel Basisgegevens: StUF-BG](https://vng-realisatie.github.io/StUF-BG/)<br/>
 <!--[Sectormodel Geo: StUF Geo IMGeo]()<br/>
 [Sectormodel HR: StUF-HR]()<br/>-->
