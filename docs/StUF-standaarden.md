@@ -3,8 +3,8 @@ layout: landing-page
 title: StUF Standaarden
 ---
 # StUF Standaarden
-<!--[StUF Onderlaag]()
-<br/><br/>-->
+[StUF Onderlaag](https://vng-realisatie.github.io/StUF-onderlaag/)
+<br/><br/>
 [Sectormodel Basisgegevens: StUF-BG](https://vng-realisatie.github.io/StUF-BG/)<br/>
 <!--[RSGB Bevragingen]()<br/>
 [StUF BAG]()<br/>
