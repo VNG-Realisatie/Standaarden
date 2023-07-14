@@ -14,9 +14,9 @@ title: StUF Standaarden
 [Sectormodel WOZ: StUF-WOZ]()<br/>
 [Sectormodel RIHa: StUF-RIHa]()-->
 ## StUF Koppelvlakken
-<!--[RSGB Bevragingen]()<br/>
-[StUF BAG]()<br/>
-[LV Adressen en Gebouwen (LV BAG)]()<br/>
+<!--[RSGB Bevragingen]()<br/>-->
+[StUF BAG](https://vng-realisatie.github.io/StUF-BAG/)<br/>
+<!--[LV Adressen en Gebouwen (LV BAG)]()<br/>
 [Kadastrale mutatieservices]()<br/>
 [LV Wet Kenbaarheid Publiekrechtelijke Beperkingen]()<br/>-->
 [Zaak- en Documentservices](https://vng-realisatie.github.io/Zaak-en-Documentservices/)<br/>
