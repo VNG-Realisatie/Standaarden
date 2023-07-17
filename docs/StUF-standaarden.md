@@ -21,9 +21,9 @@ title: StUF Standaarden
 <!--[LV Wet Kenbaarheid Publiekrechtelijke Beperkingen]()<br/>-->
 [Zaak- en Documentservices](https://vng-realisatie.github.io/Zaak-en-Documentservices/)<br/>
 <!--[Documentcreatieservices](https://melsk-r.github.io/Documentcreatie-services/)<br/><br/>
-[Prefill eFormulierservices]()<br/>
-[StUF BAG-GBA]()
-[Wabo-BAG services]()<br/>
+[Prefill eFormulierservices]()<br/>-->
+[StUF BAG-GBA](https://vng-realisatie.github.io/StUF-BAG-GBA)
+<!--[Wabo-BAG services]()<br/>
 [Toezicht- en Handhavenservices]()<br/>
 [StUF-Geo BAG]()<br/>
 [LV Omgevingsloket]()<br/>-->
