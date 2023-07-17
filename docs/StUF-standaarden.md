@@ -23,8 +23,8 @@ title: StUF Standaarden
 [Documentcreatieservices](https://vng-realisatie.github.io/Documentcreatieservices/)<br/>
 <!--[Prefill eFormulierservices]()<br/>-->
 [StUF BAG-GBA](https://vng-realisatie.github.io/StUF-BAG-GBA)<br/>
-<!--[Wabo-BAG services]()<br/>
-[Toezicht- en Handhavenservices]()<br/>
+[Wabo-BAG services](https://vng-realisatie.github.io/Wabo-BAG-Services)<br/>
+<!--[Toezicht- en Handhavenservices]()<br/>
 [StUF-Geo BAG]()<br/>
 [LV Omgevingsloket]()<br/>-->
 [StUF Jeugdzorg (CORV)](https://vng-realisatie.github.io/StUF-Jeugdzorg/)<br/>
