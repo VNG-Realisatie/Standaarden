@@ -16,9 +16,9 @@ title: StUF Standaarden
 ## StUF Koppelvlakken
 <!--[RSGB Bevragingen]()<br/>-->
 [StUF BAG](https://vng-realisatie.github.io/StUF-BAG/)<br/>
-<!--[LV Adressen en Gebouwen (LV BAG)]()<br/>
-[Kadastrale mutatieservices]()<br/>
-[LV Wet Kenbaarheid Publiekrechtelijke Beperkingen]()<br/>-->
+<!--[LV Adressen en Gebouwen (LV BAG)]()<br/>-->
+[Kadastrale mutatieservices](https://vng-realisatie.github.io/Kadastrale-mutatieservices/)<br/>
+<!--[LV Wet Kenbaarheid Publiekrechtelijke Beperkingen]()<br/>-->
 [Zaak- en Documentservices](https://vng-realisatie.github.io/Zaak-en-Documentservices/)<br/>
 <!--[Documentcreatieservices](https://melsk-r.github.io/Documentcreatie-services/)<br/><br/>
 [Prefill eFormulierservices]()<br/>
