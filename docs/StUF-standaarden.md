@@ -20,8 +20,8 @@ title: StUF Standaarden
 [Kadastrale mutatieservices](https://vng-realisatie.github.io/Kadastrale-mutatieservices/)<br/>
 <!--[LV Wet Kenbaarheid Publiekrechtelijke Beperkingen]()<br/>-->
 [Zaak- en Documentservices](https://vng-realisatie.github.io/Zaak-en-Documentservices/)<br/>
-<!--[Documentcreatieservices](https://melsk-r.github.io/Documentcreatie-services/)<br/><br/>
-[Prefill eFormulierservices]()<br/>-->
+[Documentcreatieservices](https://vng-realisatie.github.io/Documentcreatie-services/)<br/>
+<!--[Prefill eFormulierservices]()<br/>-->
 [StUF BAG-GBA](https://vng-realisatie.github.io/StUF-BAG-GBA)<br/>
 <!--[Wabo-BAG services]()<br/>
 [Toezicht- en Handhavenservices]()<br/>
