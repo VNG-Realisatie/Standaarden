@@ -24,14 +24,14 @@ title: StUF Standaarden
 <!--[Prefill eFormulierservices]()<br/>-->
 [StUF BAG-GBA](https://vng-realisatie.github.io/StUF-BAG-GBA)<br/>
 [Wabo-BAG services](https://vng-realisatie.github.io/Wabo-BAG-Services)<br/>
-<!--[Toezicht- en Handhavenservices]()<br/>
-[StUF-Geo BAG]()<br/>
+[Toezicht- en Handhavenservices](https://vng-realisatie.github.io/Toezicht-en-Handhavenservices)<br/>
+<!--[StUF-Geo BAG]()<br/>
 [LV Omgevingsloket]()<br/>-->
 [StUF Jeugdzorg (CORV)](https://vng-realisatie.github.io/StUF-Jeugdzorg/)<br/>
 <!--[Regie- en zaakservices]()<br/>
 [StUF-GGk berichtenvelop ISD-Keten]()<br/>
 [Participatieladder]()<br/>
-[Kinderopvang]()
-[Koppelvlak Betalen- en Invorderenservices]()-->
+[Kinderopvang]()-->
+[Betalen- en Invorderenservices](https://vng-realisatie.github.io/Betalen-en-Invorderenservices)
 # Aanverwante Standaarden
 [Zaaktypecatalogus](https://vng-realisatie.github.io/Zaaktypecatalogus/)<br/>
