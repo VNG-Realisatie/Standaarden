@@ -33,5 +33,5 @@ title: StUF Standaarden
 [Participatieladder]()<br/>
 [Kinderopvang]()-->
 [Betalen- en Invorderenservices](https://vng-realisatie.github.io/Betalen-en-Invorderenservices)
-# Aanverwante Standaarden
+## Aanverwante Standaarden
 [Zaaktypecatalogus](https://vng-realisatie.github.io/Zaaktypecatalogus/)<br/>
