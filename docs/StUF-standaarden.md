@@ -11,7 +11,7 @@ title: StUF Standaarden
 [Sectormodel Geo: StUF Geo IMGeo](https://www.geonovum.nl/geo-standaarden/bgt-imgeo#standaarden)
 [Sectormodel HR: StUF-HR](https://www.kvk.nl/producten-bestellen/kvk-dataservice-aansluiten-overheid/)<br/>
 [Sectormodel e-Formulieren: StUF-EF](https://vng-realisatie.github.io/StUF-EF/)<br/>
-<!--[Sectormodel WOZ: StUF-WOZ]()<br/>       Alle documenten m.b.t. deze standaard staan bij ons op GEMMA Online en moeten overgebracht worden naar de eigen website van de Waarderingskamer.-->
+Sectormodel WOZ: StUF-WOZ<br/><!--       Alle documenten m.b.t. deze standaard staan bij ons op GEMMA Online en moeten overgebracht worden naar de eigen website van de Waarderingskamer.-->
 [Sectormodel RIHa: StUF-RIHa](https://samenwerken.pleio.nl/groups/view/8b832827-e91b-476c-bb4f-c228b8e5e934/standaardisatie-toezicht-handhaving-milieu/wiki/view/2b38214e-cfc7-42ff-9d5d-eaf069671c42/riha-referentieinformatiemodel-handhaving)
 ## StUF Koppelvlakken
 <!--[RSGB Bevragingen]()<br/>       Bij de standaard Prefill eFormulieren staat dat deze standaard er een aanvulling op is. Ik vind op GEMMA Online echter niets over deze standaard.-->
