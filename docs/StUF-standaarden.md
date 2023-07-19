@@ -35,4 +35,4 @@ Sectormodel WOZ: StUF-WOZ<br/><!--       Alle documenten m.b.t. deze standaard s
 [Betalen- en Invorderenservices](https://vng-realisatie.github.io/Betalen-en-Invorderenservices/)
 ## Aanverwante Standaarden
 [Zaaktypecatalogus](https://vng-realisatie.github.io/Zaaktypecatalogus/)<br/>
-[Digikoppeling Adapter Intern]([https://github.com/VNG-Realisatie/Digikoppeling-Adapter-Intern)
+[Digikoppeling Adapter Intern](https://github.com/VNG-Realisatie/Digikoppeling-Adapter-Intern)
