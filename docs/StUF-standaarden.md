@@ -28,8 +28,8 @@ title: StUF Standaarden
 <!--[StUF-Geo BAG]()<br/>
 [LV Omgevingsloket]()<br/>-->
 [StUF Jeugdzorg (CORV)](https://vng-realisatie.github.io/StUF-Jeugdzorg/)<br/>
-<!--[Regie- en zaakservices]()<br/>
-[StUF-GGk berichtenvelop ISD-Keten]()<br/>
+[Regie- en zaakservices](https://vng-realisatie.github.io/Regie-en-zaakservices/)<br/>
+<!--[StUF-GGk berichtenvelop ISD-Keten]()<br/>
 [Participatieladder]()<br/>
 [Kinderopvang]()-->
 [Betalen- en Invorderenservices](https://vng-realisatie.github.io/Betalen-en-Invorderenservices)
