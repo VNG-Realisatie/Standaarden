@@ -8,7 +8,7 @@ title: StUF Standaarden
 [Sectormodel Basisgegevens: StUF-BG](https://vng-realisatie.github.io/StUF-BG/)<br/>
 [Sectormodel Zaken: StUF-ZKN](https://vng-realisatie.github.io/StUF-ZKN/)<br/>
 [Sectormodel Zaaktypen(-catalogus): StUF–ZTC](https://vng-realisatie.github.io/StUF-ZTC/)<br/>
-[Sectormodel LV BAG](https://www.kadaster.nl/-/bag-koppelvlak)<br/>
+[Sectormodel LV Adressen en Gebouwen (LV BAG)](https://www.kadaster.nl/-/bag-koppelvlak)<br/>
 [Sectormodel Geo: StUF Geo IMGeo](https://www.geonovum.nl/geo-standaarden/bgt-imgeo#standaarden)<br/>
 [Sectormodel HR: StUF-HR](https://www.kvk.nl/producten-bestellen/kvk-dataservice-aansluiten-overheid/)<br/>
 [Sectormodel e-Formulieren: StUF-EF](https://vng-realisatie.github.io/StUF-EF/)<br/>
@@ -17,7 +17,6 @@ Sectormodel WOZ: StUF-WOZ<br/><!--       Alle documenten m.b.t. deze standaard s
 ## StUF Koppelvlakken
 <!--[RSGB Bevragingen]()<br/>       Bij de standaard Prefill eFormulieren staat dat deze standaard er een aanvulling op is. Ik vind op GEMMA Online echter niets over deze standaard.-->
 [StUF BAG](https://vng-realisatie.github.io/StUF-BAG/)<br/>
-[LV Adressen en Gebouwen (LV BAG)](https://www.kadaster.nl/-/bag-koppelvlak)<br/>
 [Kadastrale mutatieservices](https://vng-realisatie.github.io/Kadastrale-mutatieservices/)<br/>
 <!--[LV Wet Kenbaarheid Publiekrechtelijke Beperkingen]()<br/>      Over deze standaard vind ik niets meer op de site van de Kadaster.-->
 [Zaak- en Documentservices](https://vng-realisatie.github.io/Zaak-en-Documentservices/)<br/>
