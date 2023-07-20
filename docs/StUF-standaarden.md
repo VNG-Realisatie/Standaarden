@@ -8,7 +8,7 @@ title: StUF Standaarden
 [Sectormodel Basisgegevens: StUF-BG](https://vng-realisatie.github.io/StUF-BG/)<br/>
 [Sectormodel Zaken: StUF-ZKN](https://vng-realisatie.github.io/StUF-ZKN/)<br/>
 [Sectormodel Zaaktypen(-catalogus): StUF–ZTC](https://vng-realisatie.github.io/StUF-ZTC/)<br/>
-[Sectormodel Geo: StUF Geo IMGeo](https://www.geonovum.nl/geo-standaarden/bgt-imgeo#standaarden)
+[Sectormodel Geo: StUF Geo IMGeo](https://www.geonovum.nl/geo-standaarden/bgt-imgeo#standaarden)<br/>
 [Sectormodel HR: StUF-HR](https://www.kvk.nl/producten-bestellen/kvk-dataservice-aansluiten-overheid/)<br/>
 [Sectormodel e-Formulieren: StUF-EF](https://vng-realisatie.github.io/StUF-EF/)<br/>
 Sectormodel WOZ: StUF-WOZ<br/><!--       Alle documenten m.b.t. deze standaard staan bij ons op GEMMA Online en moeten overgebracht worden naar de eigen website van de Waarderingskamer.-->
