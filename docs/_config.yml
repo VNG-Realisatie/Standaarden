@@ -6,7 +6,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
 
-remote_theme: melsk-r/jekyll-theme-vng-realisatie
+remote_theme: VNG-Realisatie/jekyll-theme-vng-realisatie
 
 github: VNG-Realisatie/Standaarden
 
