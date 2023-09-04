@@ -8,10 +8,10 @@ title: StUF Standaarden
 [Sectormodel Basisgegevens: StUF-BG](https://vng-realisatie.github.io/StUF-BG/)<br/>
 RSGB Bevragingen (Todo)<br/>
 [StUF BAG](https://vng-realisatie.github.io/StUF-BAG/)<br/>
-LV Adressen en Gebouwen (LV BAG) (Todo)<br/>
+[LV Adressen en Gebouwen (LV BAG)](https://www.kadaster.nl/-/bag-koppelvlak) (in beheer bij Kadaster)<br/>
 [Kadastrale mutatieservices](https://vng-realisatie.github.io/Kadastrale-mutatieservices/)<br/>
-Sectormodel Geo: StUF Geo IMGeo (Todo)<br/>
-Sectormodel HR: StUF-HR (Todo)<br/>
+[Sectormodel Geo: StUF Geo IMGeo](https://www.geonovum.nl/geo-standaarden/bgt-imgeo#standaarden) (in beheer bij Geonovum)<br/>
+[Sectormodel HR: StUF-HR](https://www.kvk.nl/producten-bestellen/kvk-dataservice-aansluiten-overheid/) (in beheer bij Kamers van Koophandel)<br/>
 LV Wet Kenbaarheid Publiekrechtelijke Beperkingen (Todo)
 <br/><br/>
 [Sectormodel Zaken: StUF-ZKN](https://vng-realisatie.github.io/StUF-ZKN/)<br/>
