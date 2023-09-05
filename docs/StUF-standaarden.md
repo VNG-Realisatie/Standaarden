@@ -21,7 +21,7 @@ RSGB Bevragingen (Todo)<br/>
 <br/>
 [Prefill eFormulierservices](https://vng-realisatie.github.io/Prefill-eFormulierenservices/) _(actuele versie: 1.0)_ <br/>
 [Sectormodel e-Formulieren: StUF-EF](https://vng-realisatie.github.io/StUF-EF/) _(actuele versie: 3.15)_ <br/>
-Sectormodel WOZ: StUF-WOZ _(in beheer bij Waarderingskamer)_ (Todo)<br/>
+[Sectormodel WOZ: StUF-WOZ](https://www.waarderingskamer.nl/basisregistratie-woz-lv-woz/stuf-woz-0312/) _(in beheer bij Waarderingskamer)_ <br/>
 [StUF BAG-GBA](https://vng-realisatie.github.io/StUF-BAG-GBA/) _(actuele versie: 2.04)_ <br/>
 <br/>
 [Wabo-BAG services](https://vng-realisatie.github.io/Wabo-BAG-Services/) _(actuele versie: 1.0)_ <br/>
