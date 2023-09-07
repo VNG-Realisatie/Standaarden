@@ -5,8 +5,8 @@ title: API Standaarden
 # API Standaarden
 Het overzicht hieronder toont een overzicht van API-standaarden die bekend zijn in de GEMMA.
 | Standaard   | Beheerder   | Status   | In gebruik (versie ≥ 1.0 ) vanaf datum | Onderdeel van |
-| :---        |    :----:   |:---      |:---      |:---      |
-| [Zaken API](https://vng-realisatie.github.io/gemma-zaken/)     | VNG Realisatie       | Pas-toe-of-leg-uit  |27-11-2019 |domein Dienstverlening (Zaakgericht werken)|
+| --- | --- | --- | --- | --- | --- |
+| [Zaken API](https://vng-realisatie.github.io/gemma-zaken/)| VNG Realisatie|Pas-toe-of-leg-uit  |27-11-2019 |domein Dienstverlening (Zaakgericht werken)|
 | [Catalogi API](https://catalogi-api.vng.cloud)                 |VNG Realisatie        |Pas-toe-of-leg-uit   |27-11-2019 |domein Dienstverlening (Zaakgericht werken)|
 | [Documenten API](https://catalogi-api.vng.cloud)               |VNG Realisatie        |Pas-toe-of-leg-uit   |27-11-2019 |domein Dienstverlening (Zaakgericht werken)|
 | [Besluiten API](https://besluiten-api.vng.cloud)               |VNG Realisatie        |Pas-toe-of-leg-uit   |27-11-2019 |domein Dienstverlening (Zaakgericht werken)|
