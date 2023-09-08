@@ -19,7 +19,7 @@ Het overzicht hieronder toont de door het College van Dienstverleningszaken do
 | [BRP Bevragen API](https://github.com/BRP-API/Haal-Centraal-BRP-bevragen/) |	RvIG        | Pas-toe-of-leg-uit   | 01-10-2020 | Haal Centraal |
 | [WOZ Bevragen API](https://github.com/VNG-Realisatie/Haal-Centraal-WOZ-bevragen/) |	Waarderingskamer        | Pas-toe-of-leg-uit   | 16-12-2021 | Haal Centraal |
 | [Regels bij activiteiten API](https://github.com/VNG-Realisatie/Regels-bij-activiteiten) | VNG Realisatie        | Pas-toe-of-leg-uit   | 01-07-2021 | Fysiek domein |
-
+# Vaststelling statussen van standaarden (VNG)
 Een verbindend verklaarde API-standaard is na een advies van het College van Dienstverleningszaken door het VNG-bestuur of de Algemene Ledenvergadering van de VNG als standaard vastgesteld. Een vaststelling kan verschillende gradaties van verbindendheid tot gevolg hebben: van 'aanbevolen deze standaard te gebruiken' tot 'verplicht deze standaard toe te passen'. In de tabel wordt per vastgestelde API-standaard aangegeven welke mate van verbindendheid geldt.
 
 Standaarden kunnen volgens [drie niveaus van verbindendheid](https://vng.nl/sites/default/files/brieven/2018/attachments/08_notitie_proces_standaardverklaring_versie_cie_i_en_bestuur.pdf) worden vastgesteld:
