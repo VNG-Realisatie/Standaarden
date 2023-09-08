@@ -28,12 +28,12 @@ Standaarden kunnen volgens [drie niveaus van verbindendheid](https://vng.nl/site
 1. Advies ('Aanbevolen')
     - Mate van verbindendheid: vrijblijvend en geen formele status.
     - Proces vaststelling: vaststellen door directie VNG
-    - Voorbeeld: klantreizen, modelverordeningen
+    - Voorbeeld: [klantreizen](https://vng.nl/artikelen/klantreizen), [modelverordeningen](https://vng.nl/rubrieken/onderwerpen/modelverordeningen)
 2. Standaardverklaring ('Pas toe of leg uit')
     - Mate van verbindendheid: niet vrijblijvend, ‘pas toe of leg uit’-principe [ naar voorbeeld Forum Standaardisatie](https://www.forumstandaardisatie.nl/node/229).
     - Proces vaststelling: tenminste op advies van het College van Dienstverleningszaken door bestuur VNG, ledenraadpleging facultatief, monitoring toepassing door VNG (bijvoorbeeld via Waarstaatjegemeente.nl) en lokaal via reguliere P&C cyclus door gemeenteraad.
-    - Voorbeeld: GIBIT
+    - Voorbeeld: [GIBIT](https://vng.nl/projecten/gibit)
 3. Verbindend verklaren ('Verplicht')
     - Mate van verbindendheid: verplichtend voor leden
     - Proces: vaststelling op advies College van Dienstverleningszaken door bestuur VNG metledenraadpleging
-    - Voorbeeld: Aansluiting bij Informatiebeveiligingsdienst (via BALV)
+    - Voorbeeld: [Aansluiting bij Informatiebeveiligingsdienst](https://vng.nl/projecten/informatieveiligheid) via BALV
