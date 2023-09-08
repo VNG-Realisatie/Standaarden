@@ -6,7 +6,6 @@ title: StUF Standaarden
 [StUF Onderlaag](https://vng-realisatie.github.io/StUF-onderlaag/) _(actuele versie: 3.01)_ <br/>
 <br/>
 [Sectormodel Basisgegevens: StUF-BG](https://vng-realisatie.github.io/StUF-BG/) (RSGB) _(actuele versie: 3.10)_ <br/>
-RSGB Bevragingen (Todo)<br/>
 [StUF BAG](https://vng-realisatie.github.io/StUF-BAG/) (BAG) _(actuele versie: 3.10)_ <br/>
 [LV Adressen en Gebouwen (LV BAG)](https://www.kadaster.nl/-/bag-koppelvlak) (BAG) _(in beheer bij Kadaster)_ <br/>
 [Kadastrale mutatieservices](https://vng-realisatie.github.io/Kadastrale-mutatieservices/) (BRK-Levering) _(actuele versie: 1.0)_ <br/>
@@ -20,6 +19,7 @@ RSGB Bevragingen (Todo)<br/>
 [Documentcreatieservices](https://vng-realisatie.github.io/Documentcreatieservices/) _(actuele versie: 1.1)_ <br/>
 <br/>
 [Prefill eFormulierservices](https://vng-realisatie.github.io/Prefill-eFormulierenservices/) _(actuele versie: 1.0)_ <br/>
+RSGB Bevragingen (Todo)<br/>
 [Sectormodel e-Formulieren: StUF-EF](https://vng-realisatie.github.io/StUF-EF/) _(actuele versie: 3.15)_ <br/>
 [Sectormodel WOZ: StUF-WOZ](https://www.waarderingskamer.nl/basisregistratie-woz-lv-woz/stuf-woz-0312/) _(in beheer bij Waarderingskamer)_ <br/>
 [StUF BAG-GBA](https://vng-realisatie.github.io/StUF-BAG-GBA/) _(actuele versie: 2.04)_ <br/>
