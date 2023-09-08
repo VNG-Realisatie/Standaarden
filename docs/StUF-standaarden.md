@@ -15,7 +15,7 @@ title: StUF Standaarden
 <br/>
 [Sectormodel Zaken: StUF-ZKN](https://vng-realisatie.github.io/StUF-ZKN/) (RGBZ) _(actuele versie: 3.10)_ <br/>
 [Sectormodel Zaaktypen(-catalogus): StUF–ZTC](https://vng-realisatie.github.io/StUF-ZTC/) (ImZTC) _(actuele versie: 3.10)_ <br/>
-[Zaaktypecatalogus](https://vng-realisatie.github.io/Zaaktypecatalogus/) _(actuele versie: 2)_
+[Zaaktypecatalogus](https://vng-realisatie.github.io/Zaaktypecatalogus/) _(actuele versie: 2)_ <br/>
 [Zaak- en Documentservices](https://vng-realisatie.github.io/Zaak-en-Documentservices/) _(actuele versie: 1.2)_ <br/>
 [Documentcreatieservices](https://vng-realisatie.github.io/Documentcreatieservices/) _(actuele versie: 1.1)_ <br/>
 <br/>
