@@ -37,7 +37,7 @@ Het overzicht hieronder toont de door het College van Dienstverleningszaken do
 
 
 # Vaststelling statussen van standaarden (VNG)
-Een verbindend verklaarde API-standaard is na een advies van het College van Dienstverleningszaken door het VNG-bestuur of de Algemene Ledenvergadering van de VNG als standaard vastgesteld. Een vaststelling kan verschillende gradaties van verbindendheid tot gevolg hebben: van 'aanbevolen deze standaard te gebruiken' tot 'verplicht deze standaard toe te passen'. In de tabel wordt per vastgestelde API-standaard aangegeven welke mate van verbindendheid geldt.
+Een verbindend verklaarde API-standaard is na een advies van het College van Dienstverleningszaken door het VNG-bestuur of de Algemene Ledenvergadering van de VNG als standaard vastgesteld. Een vaststelling kan verschillende gradaties van verbindendheid tot gevolg hebben: van 'aanbevolen deze standaard te gebruiken' tot 'verplicht deze standaard toe te passen'. In de tabel wordt per vastgestelde API-standaard aangegeven welke mate van verbindendheid geldt. Het [proces van standaardverklaring](https://vng.nl/brieven/proces-standaardverklaring) is vastgesteld door het College van Dienstverleningszaken op 12 oktober 2018. 
 
 Standaarden kunnen volgens [drie niveaus van verbindendheid](https://vng.nl/sites/default/files/brieven/2018/attachments/08_notitie_proces_standaardverklaring_versie_cie_i_en_bestuur.pdf) worden vastgesteld:
 1. Advies ('Aanbevolen')
