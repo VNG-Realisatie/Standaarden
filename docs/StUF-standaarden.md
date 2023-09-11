@@ -46,5 +46,4 @@ title: StUF Standaarden
 | Standaard | Beheerder | Actuele versie |
 | --- | --- | --- |
 | [Zaaktypecatalogus](https://vng-realisatie.github.io/Zaaktypecatalogus/) |  VNG Realisatie | 2 |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [Digikoppeling Adapter Intern](https://vng-realisatie.github.io/Digikoppeling-Adapter-Intern/) |  VNG Realisatie | 1.0 |
