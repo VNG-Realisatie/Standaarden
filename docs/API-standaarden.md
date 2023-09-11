@@ -7,7 +7,7 @@ Het overzicht hieronder toont de door het College van Dienstverleningszaken do
 
 | Standaard | Beheerder | Status | Datum | Onderdeel van |
 | --- | --- | --- | --- | --- |
-| [Zaken API](https://vng-realisatie.github.io/gemma-zaken/) | VNG Realisatie | Pas-toe-of-leg-uit | 27-11-2019 | domein Dienstverlening (Zaakgericht werken)|
+| [Zaken API](https://vng-realisatie.github.io/gemma-zaken/) | VNG Realisatie | Pas-toe-of-leg-uit | 27-11-2019 | Domein Dienstverlening (Zaakgericht werken)     |
 | [Documenten API](https://catalogi-api.vng.cloud)               | VNG Realisatie        | Pas-toe-of-leg-uit   | 27-11-2019 | Domein Dienstverlening (Zaakgericht werken) |
 | [Besluiten API](https://besluiten-api.vng.cloud)               | VNG Realisatie        | Pas-toe-of-leg-uit   | 27-11-2019 | Domein Dienstverlening (Zaakgericht werken) |
 | [Autorisaties API](https://catalogi-api.vng.cloud)             | VNG Realisatie        | Pas-toe-of-leg-uit   | 27-11-2019 | Domein Dienstverlening (Zaakgericht werken) |
