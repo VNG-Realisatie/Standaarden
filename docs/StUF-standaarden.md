@@ -16,7 +16,7 @@ title: StUF Standaarden
 | [Sectormodel HR: StUF-HR](https://www.kvk.nl/producten-bestellen/kvk-dataservice-aansluiten-overheid/) (nHR) | Kamers van Koophandel | ? | 3.01 |
 | [LV Wet Kenbaarheid Publiekrechtelijke Beperkingen](https://www.kadaster.nl/web/artikel/download/WKPB-sectormodel-1.htm) (Wkpb) | Kadaster | ? | 3.01 |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| [Sectormodel Zaken: StUF-ZKN](https://vng-realisatie.github.io/StUF-ZKN/) (RGBZ) |  VNG Realisatie | 3.10 | 3.01, 2.04 |
+| [Sectormodel Zaken: StUF-ZKN](https://vng-realisatie.github.io/StUF-ZKN/) (RGBZ) |  VNG Realisatie | 3.10 | 3.01 |
 | [Sectormodel Zaaktypen(-catalogus): StUF–ZTC](https://vng-realisatie.github.io/StUF-ZTC/) (ImZTC) |  VNG Realisatie | 3.10 | 3.01 |
 | [Zaaktypecatalogus](https://vng-realisatie.github.io/Zaaktypecatalogus/) |  VNG Realisatie | 2 | - |
 | [Zaak- en Documentservices](https://vng-realisatie.github.io/Zaak-en-Documentservices/) |  VNG Realisatie | 1.2 | 3.01 |
