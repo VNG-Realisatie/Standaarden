@@ -3,6 +3,7 @@ layout: landing-page
 title: StUF Standaarden
 ---
 # Overzicht StUF Standaarden
+
 | Standaard | Beheerder | Actuele versie | StUF versie |
 | --- | --- | --- | --- |
 | [StUF Onderlaag](https://vng-realisatie.github.io/StUF-onderlaag/) |  VNG Realisatie | 3.01 | - |
