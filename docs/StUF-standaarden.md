@@ -18,7 +18,6 @@ title: StUF Standaarden
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [Sectormodel Zaken: StUF-ZKN](https://vng-realisatie.github.io/StUF-ZKN/) (RGBZ) |  VNG Realisatie | 3.10 | 3.01 |
 | [Sectormodel Zaaktypen(-catalogus): StUF–ZTC](https://vng-realisatie.github.io/StUF-ZTC/) (ImZTC) |  VNG Realisatie | 3.10 | 3.01 |
-| [Zaaktypecatalogus](https://vng-realisatie.github.io/Zaaktypecatalogus/) |  VNG Realisatie | 2 | - |
 | [Zaak- en Documentservices](https://vng-realisatie.github.io/Zaak-en-Documentservices/) |  VNG Realisatie | 1.2 | 3.01 |
 | [Documentcreatieservices](https://vng-realisatie.github.io/Documentcreatieservices/) |  VNG Realisatie | 1.1 | 3.01 |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
@@ -41,5 +40,11 @@ title: StUF Standaarden
 | Kinderopvang | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | 
 | [Koppelvlak Betalen- en Invorderenservices](https://vng-realisatie.github.io/Betalen-en-Invorderenservices/) |  VNG Realisatie | 1.0 | 3.01 |
+
+# Overzicht gerelateerde Standaarden
+
+| Standaard | Beheerder | Actuele versie | StUF versie |
+| --- | --- | --- | --- |
+| [Zaaktypecatalogus](https://vng-realisatie.github.io/Zaaktypecatalogus/) |  VNG Realisatie | 2 | - |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [Digikoppeling Adapter Intern](https://vng-realisatie.github.io/Digikoppeling-Adapter-Intern/) |  VNG Realisatie | 1.0 | - |
