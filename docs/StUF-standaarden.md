@@ -7,7 +7,7 @@ title: StUF Standaarden
 | Standaard | Beheerder | Actuele versie | StUF versie |
 | --- | --- | --- | --- |
 | [StUF Onderlaag](https://vng-realisatie.github.io/StUF-onderlaag/) |  VNG Realisatie | 3.01 | - |
-<!--| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [Sectormodel Basisgegevens: StUF-BG](https://vng-realisatie.github.io/StUF-BG/) (RSGB) |  VNG Realisatie | 3.10 | 3.01, 2.04 |
 | [StUF BAG](https://vng-realisatie.github.io/StUF-BAG/) (BAG) |  VNG Realisatie | 3.10 | 3.01 |
 | [LV Adressen en Gebouwen (LV BAG)](https://www.kadaster.nl/-/bag-koppelvlak) (BAG) | Kadaster | ? | 3.01 |
@@ -42,4 +42,4 @@ title: StUF Standaarden
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | 
 | [Koppelvlak Betalen- en Invorderenservices](https://vng-realisatie.github.io/Betalen-en-Invorderenservices/) |  VNG Realisatie | 1.0 | 3.01 |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| [Digikoppeling Adapter Intern](https://vng-realisatie.github.io/Digikoppeling-Adapter-Intern/) |  VNG Realisatie | 1.0 | - | -->
+| [Digikoppeling Adapter Intern](https://vng-realisatie.github.io/Digikoppeling-Adapter-Intern/) |  VNG Realisatie | 1.0 | - |
