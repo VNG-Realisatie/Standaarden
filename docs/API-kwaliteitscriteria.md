@@ -1,3 +1,8 @@
+---
+layout: landing-page
+title: API Kwaliteitscriteria
+---
+
 API-specificaties welke een werkgroep oplevert dienen te voldoen aan onderstaande API kwaliteitscriteria.
 Toepassing van deze kwaliteitscriteria is op basis van ‘pas toe of leg uit’: verplicht gebruik tenzij toepassing niet mogelijk of zinvol is, danwel gemotiveerd anders is ingevuld / opgelost.
 
