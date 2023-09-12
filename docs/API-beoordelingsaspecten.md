@@ -3,7 +3,7 @@ layout: landings-page
 title: API-beoordelingsaspecten
 ---
 
-Bij het ontwikkelen van standaarden is het zinvol navolgende aspecten in overweging te nemen:</p>
+Bij het ontwikkelen van standaarden is het zinvol navolgende aspecten in overweging te nemen:
 - Deelnemers: 
   - Wie zijn de stakeholders, wat is hun rol en hoe zijn ze betrokken? 
 - Nut, noodzaak, meerwaarde: 
