@@ -1,7 +1,8 @@
 ---
-Layout:landings-pagina
-Title:API-beoordelingsaspecten
+layout: landings-page
+title: API-beoordelingsaspecten
 ---
+
 Bij het ontwikkelen van standaarden is het zinvol navolgende aspecten in overweging te nemen:</p>
 - Deelnemers: 
   - Wie zijn de stakeholders, wat is hun rol en hoe zijn ze betrokken? 
