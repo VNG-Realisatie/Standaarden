@@ -1,6 +1,6 @@
 ---
-layout: landings-page
-title: API-beoordelingsaspecten
+layout: landing-page
+title: API Community
 ---
 
 Bij het ontwikkelen van standaarden is het zinvol navolgende aspecten in overweging te nemen:
