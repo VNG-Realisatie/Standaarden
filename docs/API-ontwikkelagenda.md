@@ -6,7 +6,7 @@ De Ontwikkelagenda API-standaarden is een dynamisch overzicht van API-specificat
 Het doel van deze funnel is bestuurders, informatiemanagers, architecten en ontwikkelaars bij gemeenten en marktpartijen inzicht te geven in welke gemeente met de ontwikkeling van API-specificaties bezig is (en waar zij staan), zodat zij hier in hun planning rekening mee kunnen houden en eventueel aan deel kunnen nemen. 
 De [overzicht vastgestelde standaarden](https://vng-realisatie.github.io/Standaarden/API-standaarden) in de ontwikkelagenda volgen het [standaardisatieleidraad]. Deze leidraad biedt ondersteuning bij de ontwikkeling van standaarden om tot een ‘vastgestelde VNG uitwisselstandaarden’ te komen. De ontwikkelagenda voor API-standaarden is een dynamisch overzicht en geen vaste planning voor de komende jaren. De Ontwikkelagenda wordt één maal per kwartaal geactualiseerd. Voor vragen, op- of aanmerkingen: gemmaonline@vng.nl.
 
-![Een overzicht van de ontwikkel van API-standaarden](https://vng-realisatie.github.io/Standaarden/API-ontwikkelagenda_Juli_2022_v2.png)
+<img src="https://vng-realisatie.github.io/Standaarden/API-ontwikkelagenda_Juli_2022_v2.png" width="800" height="450" />
 
 ## Basisregistraties
 ### BAG-Bevragen
