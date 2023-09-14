@@ -6,7 +6,7 @@ De Ontwikkelagenda API-standaarden is een dynamisch overzicht van API-specificat
 Het doel van deze funnel is bestuurders, informatiemanagers, architecten en ontwikkelaars bij gemeenten en marktpartijen inzicht te geven in welke gemeente met de ontwikkeling van API-specificaties bezig is (en waar zij staan), zodat zij hier in hun planning rekening mee kunnen houden en eventueel aan deel kunnen nemen. 
 De [overzicht vastgestelde standaarden](https://vng-realisatie.github.io/Standaarden/API-standaarden) in de ontwikkelagenda volgen het [standaardisatieleidraad]. Deze leidraad biedt ondersteuning bij de ontwikkeling van standaarden om tot een ‘vastgestelde VNG uitwisselstandaarden’ te komen. De ontwikkelagenda voor API-standaarden is een dynamisch overzicht en geen vaste planning voor de komende jaren. De Ontwikkelagenda wordt één maal per kwartaal geactualiseerd. Voor vragen, op- of aanmerkingen: gemmaonline@vng.nl.
 
-<img src="https://vng-realisatie.github.io/Standaarden/API-ontwikkelagenda_Juli_2022_v2.png" width="800" height="450" />
+<img src="https://vng-realisatie.github.io/Standaarden/API-ontwikkelagenda_Juli_2022_v2.png" width="1000" height="562" />
 
 ## Basisregistraties
 ### BAG-Bevragen
@@ -40,7 +40,7 @@ API voor het zoeken en raadplegen van BRP landelijke tabellen. **Contactpersoon*
 Details zijn te vinden op [Github - HaalCentraal](https://vng-realisatie.github.io/Haal-Centraal/)  , [Github HaalCentraal - BRP Tabellen Bevragen](https://brp-api.github.io/Haal-Centraal-BRP-tabellen-bevragen/) en [GitHub HaalCentraal Code - BRP Tabellen Bevragen](https://github.com/BRP-API/Haal-Centraal-BRP-tabellen-bevragen)
 
 ### BRP-Update
-Migratie API waarmee je je kunt abonneren op notificaties over wijzigingen van personen. Bedoeld voor gebruik in combinatie met de BRP bevragen API, bijvoorbeeld om (tijdelijk) lokale kopiegegevens actueel te houden.**Contactpersoon**: Johan Boer. **Status**: Beheer van de specificaties bij project Haal-Centraal. Details zijn te vinden op [Github - HaalCentraal](https://vng-realisatie.github.io/Haal-Centraal/)  , [https://brp-api.github.io/Haal-Centraal-BRP-update-API/ Github HaalCentraal - BRP Update] en [https://github.com/BRP-API/Haal-Centraal-BRP-update-API  GitHub HaalCentraal Code - BRP Update]
+Migratie API waarmee je je kunt abonneren op notificaties over wijzigingen van personen. Bedoeld voor gebruik in combinatie met de BRP bevragen API, bijvoorbeeld om (tijdelijk) lokale kopiegegevens actueel te houden.**Contactpersoon**: Johan Boer. **Status**: Beheer van de specificaties bij project Haal-Centraal. Details zijn te vinden op [Github - HaalCentraal](https://vng-realisatie.github.io/Haal-Centraal/)  , [Github HaalCentraal - BRP Update](https://brp-api.github.io/Haal-Centraal-BRP-update-API/) en [GitHub HaalCentraal Code - BRP Update](https://github.com/BRP-API/Haal-Centraal-BRP-update-API)
 
 ### HR-Bevragen
 API voor het zoeken en raadplegen van gegevens uit het Handelsregister. **Contactpersoon**: Johan Boer. **Status**: In ontwikkeling in samenspraak met de Kamer van Koophandel. Details zijn te vinden op [Github - HaalCentraal](https://vng-realisatie.github.io/Haal-Centraal/)  , [Github HaalCentraal - HR Bevragen](https://vng-realisatie.github.io/Haal-Centraal-HR-bevragen/) en [GitHub HaalCentraal Code - HR Bevragen](https://github.com/VNG-Realisatie/Haal-Centraal-HR-bevragen)
@@ -53,7 +53,7 @@ De API BGT bevragen maakt het mogelijk gegevens uit de Basisregistratie Grootsch
 De Open Api Specificatie voor Open Raadsinformatie beschrijft de standaard voor het ontsluiten van Raadsinformatie van gemeenten. Een functionaliteit in het kader van de Wet Open Overheid. Details op: [GITHUB-ODS Open Raadsinformatie](https://github.com/VNG-Realisatie/ODS-Open-Raadsinformatie) **Contactpersoon** Johan Boer. **Status**: Analyse. Als gevolg van een wetswijziging moet het eerder gemaakte ontwerp herzien worden. 
 
 ### Open WoB
-De Open Api Specificatie voor de Wet Openbaarheid van Bestuur beschrijft de standaard voor het ontsluiten van WoB-verzoeken van gemeenten. Een functionaliteit in het kader van de Wet Open Overheid. **Contactpersoon** Henri Korver. **Status**: Analyse. Als gevolg van een wetswijziging moet het eerder gemaakte ontwerp herzien worden. </br />
+De Open Api Specificatie voor de Wet Openbaarheid van Bestuur beschrijft de standaard voor het ontsluiten van WoB-verzoeken van gemeenten. Een functionaliteit in het kader van de Wet Open Overheid. **Contactpersoon** Henri Korver. **Status**: Analyse. Als gevolg van een wetswijziging moet het eerder gemaakte ontwerp herzien worden.
 
 ### Wet hergebruik Overheidsinformatie
 De herziening van de Who heeft impact op meerdere sporen. Eén van deze sporen betreft de vertaling van de Europese High Value Datalist naar de gemeentelijke variant. Op het moment van schrijven is nog niet bekend of en welke onderwerpen moeten worden behandeld. Hiervoor zal een onderzoek uitgevoerd worden. Wel is bekend dat de onderwerpen die van de E-HVDL op de gemeentelijke high valuedatalist komen verplicht vergezeld moeten worden van een API. 
@@ -83,7 +83,7 @@ GEBRUIKSRECHTEN leggen voorwaarden op aan het gebruik van het INFORMATIEOBJECT (
 De typering van INFORMATIEOBJECTen is in de Catalogi API (ZTC) ondergebracht in de vorm van INFORMATIEOBJECTTYPEn. <br/>**Contactpersoon**: Michiel Verhoef. **Status**: Implementeerbaar. Pas-Toe-Leg-Uit Details zijn te vinden op [GITHUB - GEMMA Zaken](https://vng-realisatie.github.io/gemma-zaken/) en [VNG Cloud - Document Registratie Component (DRC)](https://documenten-api.vng.cloud/)
 
 ### Klanten
-API voor registratie en ontsluiting van klanten en de daarbij behorende metadata. Klanten kunnen zowel burgers als bedrijven zijn. Authentieke gegevens (zoasl bsn, rsin, etc.) zijn niet verplicht zodat klanten snel en gemakkelijk geregistreerd kunnen worden. Deze API is de basis voor: Contactmomenten API en Verzoeken API. <br/>**Contactpersoon**: Ivo Hendriks. **Status**: realisatie. Details zijn te vinden op [GITHUB - Klanten API](https://vng-realisatie.github.io/gemma-zaken/standaard/klanten/index) en GITHUB - GEMMA Zaken issues]
+API voor registratie en ontsluiting van klanten en de daarbij behorende metadata. Klanten kunnen zowel burgers als bedrijven zijn. Authentieke gegevens (zoasl bsn, rsin, etc.) zijn niet verplicht zodat klanten snel en gemakkelijk geregistreerd kunnen worden. Deze API is de basis voor: Contactmomenten API en Verzoeken API. <br/>**Contactpersoon**: Ivo Hendriks. **Status**: realisatie. Details zijn te vinden op [GITHUB - Klanten API](https://vng-realisatie.github.io/gemma-zaken/standaard/klanten/index) en [GITHUB GEMMA Zaken issues](https://github.com/VNG-Realisatie/gemma-zaken/issues).
 
 ### Medewerker
 API om medewerker- en afdelingsgegevens te ontsluiten. **Contactpersoon**: Michiel Verhoef. **Status**: Idee. 
@@ -97,7 +97,7 @@ In een landelijk project wordt momenteel gewerkt aan een landelijke standaard. Z
 **Contactpersoon**: Michiel Verhoef. **Status**: Idee. 
 
 ### Productaanvragen
-API voor de registratie en ontsluiting van producten. Het betreft een aanvraag van een klant aan de gemeente (of andere overheid) voor de levering van een product of dienst. Een product aanvraag kan leiden tot een zaak maar kan ook op een andere manier afgehandeld worden. <br/>**Contactpersoon**: Ivo Hendriks. **Status**: realisatie. Details zijn te vinden op [https://vng-realisatie.github.io/gemma-zaken/standaard/verzoeken/index GITHUB GEMMA Zaken Verzoeken API] en [https://github.com/VNG-Realisatie/gemma-zaken/issues GITHUB GEMMA Zaken issues]
+API voor de registratie en ontsluiting van producten. Het betreft een aanvraag van een klant aan de gemeente (of andere overheid) voor de levering van een product of dienst. Een product aanvraag kan leiden tot een zaak maar kan ook op een andere manier afgehandeld worden. <br/>**Contactpersoon**: Ivo Hendriks. **Status**: realisatie. Details zijn te vinden op [GITHUB GEMMA Zaken Verzoeken API](https://vng-realisatie.github.io/gemma-zaken/standaard/verzoeken/index) en [GITHUB GEMMA Zaken issues](https://github.com/VNG-Realisatie/gemma-zaken/issues)
 
 ### Zaken
 De ZAAK is het kernobject in deze API, waaraan verschillende andere resources gerelateerd zijn. De Zaken API werkt samen met andere API's voor Zaakgericht werken om tot volledige functionaliteit te komen. In ieder geval dienen de volgende API's beschikbaar te zijn:
@@ -122,8 +122,8 @@ staan (de boom, prullenbak). Deze objectregistraties hebben vaak dezelfde struct
 **Contactpersoon**: De open-zaak community vertegenwoordigd door Lazo Bozarov (gemeente Utrecht). 
 **Status**: implementeerbaar. Pas-Toe-Leg-Uit. 
 **Details**: op Github.com:
-* https://github.com/VNG-Realisatie/objecten-api
-* https://github.com/VNG-Realisatie/objecttypen-api
+   * [Objecten API](https://github.com/VNG-Realisatie/objecten-api)
+   * [Objecttypen API](https://github.com/VNG-Realisatie/objecttypen-api)
 
 ### PDC
 Iedere organisatie die producten en/of diensten levert aan haar ‘klanten’ en ketenpartners neemt de specificaties van die producten en diensten op en maakt die toegankelijk in eigen producten- en dienstencatalogi. Een organisatie kan één producten- en dienstencatalogus aanbieden voor al haar producten en diensten maar kan dat ook doen in meerdere catalogi, bijvoorbeeld een catalogus per domein (dienstverlening, ruimtelijk domein, sociaal domein et cetera).
@@ -142,14 +142,14 @@ Dit standaardisatie-initiatief komt van de leveranciers Gemboxx, Genetics, Stads
 **Contactpersoon**: Eddy van de Werken (Centric) / Willam van Weelden (Centric). **Status**: realisatie.
 
 ### Erfgoedregistratie
-De Werkgroep De Data-Beet heeft een standaard ontwikkeld om gegevens over gemeentelijk Erfgoed gestandaardiseerd uit te wisselen. Voor meer informatie zie [https://erfgoedregistratiestandaard.github.io/ers-spec/ Erfgoed Registratie Standaard].
+De Werkgroep De Data-Beet heeft een standaard ontwikkeld om gegevens over gemeentelijk Erfgoed gestandaardiseerd uit te wisselen. Voor meer informatie zie [Erfgoed Registratie Standaard](https://erfgoedregistratiestandaard.github.io/ers-spec/).
 **Contactpersoon**: [Werkgroep ‘De Data-Beet’](https://monumentengemeenten.nl/werkgroepen-2/werkgroep-data-beet/) **Status**: Implementeerbaar
 
 ## Generieke standaarden
 ### Logging van Verwerkingen
 Organisaties die persoonsgegevens verwerken zijn conform de Algemene Verordening Gegevensbescherming (AVG) en de Uitvoeringswet AVG verplicht om aan te kunnen tonen dat een verwerking van persoonsgegevens aan de belangrijkste beginselen van verwerking voldoet, zoals rechtmatigheid, transparantie, doelbinding en juistheid. Om aan deze verantwoordingsplicht te kunnen voldoen is het van belang dat per verwerking de belangrijkste metagegevens van de verwerkingen worden vastgelegd. Standaardisatie van de vastlegging van verwerkingen is van belang om de eenduidigheid en toegankelijkheid van deze gegevens te borgen. Door VNG-Realisatie is deze Logging van Verwerkingen API-standaard ontwikkeld als onderdeel van de GEMMA referentiearchitectuur. Deze API-standaard biedt leveranciers van informatiesystemen gestandaardiseerde API-specificaties voor het vastleggen en ontsluiten van de logging van verwerkingen zowel van persoonsgegevens als van gegevens van andere objecten. 
 **Contactpersoon**: Arnoud Quanjer. **Status**: Realisatie 
-Details op: [https://github.com/VNG-Realisatie/gemma-verwerkingenlogging/](https://github.com/VNG-Realisatie/gemma-verwerkingenlogging/)  
+Details op: [GEMMA Verwerkingenlogging](https://github.com/VNG-Realisatie/gemma-verwerkingenlogging/)  
 
 ### Verwerkingsactiviteiten
 Conform de Algemene Verordening Gegevensbescherming (AVG) moet iedere organisatie of persoon die zich niet incidenteel bezighoudt met het verwerken van persoonsgegevens een een verwerkingsregister (register van de verwerkingsactiviteiten) hebben. In dit register worden metagegevens bijgehouden ten aanzien van specifieke verwerkingsactiviteiten. Voorbeelden hiervan zijn de wettelijke grondslag van de verwerking, het doel van de verwerking en de categorieen van persoonsgegevens die verwerkt worden. 
