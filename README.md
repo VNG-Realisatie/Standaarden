@@ -2,7 +2,7 @@
 
 # GitHub repositories
 
-| API Standaarden | StUF (gerelateerde) Standaarden |
+| API Standaarden | StUF en StUF gerelateerde Standaarden |
 | --- | --- |
 | [autorisaties-api](https://github.com/VNG-Realisatie/autorisaties-api) | [Betalen-en-Invorderenservices](https://github.com/VNG-Realisatie/Betalen-en-Invorderenservices) - [_GitHub Pages_](https://vng-realisatie.github.io/Betalen-en-Invorderenservices) |
 | [besluiten-api](https://github.com/VNG-Realisatie/besluiten-api) | [Digikoppeling-Adapter-Intern](https://github.com/VNG-Realisatie/Digikoppeling-Adapter-Intern) - [_GitHub Pages_](https://vng-realisatie.github.io/Digikoppeling-Adapter-Intern) |
