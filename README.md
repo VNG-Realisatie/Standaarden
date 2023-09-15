@@ -24,7 +24,7 @@
 | [Haal-Centraal-WOZ-bevragen](https://github.com/VNG-Realisatie/Haal-Centraal-WOZ-bevragen) - [_GitHub Pages_](https://vng-realisatie.github.io/Haal-Centraal-WOZ-bevragen) | [Wabo-BAG-Services](https://github.com/VNG-Realisatie/Wabo-BAG-Services) - [_GitHub Pages_](https://vng-realisatie.github.io/Wabo-BAG-Services) |
 | [IMWOZ-bevragingen](https://github.com/VNG-Realisatie/IMWOZ-bevragingen) - [_GitHub Pages_](https://vng-realisatie.github.io/IMWOZ-bevragingen) | [Zaak-en-Documentservices](https://github.com/VNG-Realisatie/Zaak-en-Documentservices) - [_GitHub Pages_](https://vng-realisatie.github.io/Zaak-en-Documentservices) |
 | [klanten-api](https://github.com/VNG-Realisatie/klanten-api) | [Zaaktypecatalogus](https://github.com/VNG-Realisatie/Zaaktypecatalogus) - [_GitHub Pages_](https://vng-realisatie.github.io/Zaaktypecatalogus) |
-| [klantinteracties](https://github.com/VNG-Realisatie/klantinteracties) - [_GitHub Pages_]([https://vng-realisatie.github.io/Standaarden](https://vng-realisatie.github.io/klantinteracties/)) |  |
+| [klantinteracties](https://github.com/VNG-Realisatie/klantinteracties) - [_GitHub Pages_](https://vng-realisatie.github.io/klantinteracties/) |  |
 | [klantinteracties-api](https://github.com/VNG-Realisatie/klantinteracties-api) |  |
 | [notificaties-api](https://github.com/VNG-Realisatie/notificaties-api) |  |
 | [objecten-api](https://github.com/VNG-Realisatie/objecten-api) |  |
