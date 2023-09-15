@@ -1,6 +1,6 @@
 # Standaarden
 
-# GitHub repositories
+## GitHub repositories
 
 | API Standaarden | StUF en StUF gerelateerde Standaarden |
 | --- | --- |
