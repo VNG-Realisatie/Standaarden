@@ -39,7 +39,7 @@
 | [Standaarden](https://github.com/VNG-Realisatie/Standaarden) - [_GitHub Pages_](https://vng-realisatie.github.io/Standaarden) | [Standaarden](https://github.com/VNG-Realisatie/Standaarden) - [_GitHub Pages_](https://vng-realisatie.github.io/Standaarden) |
 | [documenten-api](https://github.com/VNG-Realisatie/documenten-api) | [StUF-Standaarden](https://github.com/VNG-Realisatie/StUF-Standaarden) - [_GitHub Pages_](https://vng-realisatie.github.io/StUF-Standaarden) |
 | [Haal-Centraal](https://github.com/VNG-Realisatie/Haal-Centraal) - [_GitHub Pages_](https://vng-realisatie.github.io/Haal-Centraal) |  |
-| [klantinteracties](https://github.com/VNG-Realisatie/klantinteracties) |  |
+| [klantinteracties](https://github.com/VNG-Realisatie/klantinteracties) - [_GitHub Pages_]([https://vng-realisatie.github.io/Standaarden](https://vng-realisatie.github.io/klantinteracties/)) |  |
 
 
 | Projecten | Archi | Intern |
