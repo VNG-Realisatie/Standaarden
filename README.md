@@ -53,7 +53,7 @@
 |  |[GGM-EA-to-Archi-csv](https://github.com/VNG-Realisatie/GGM-EA-to-Archi-csv) | | 
 |  |[WOZ-ArchiMate-repository](https://github.com/VNG-Realisatie/WOZ-ArchiMate-repository) | | 
 
-| Tool | Intern | MDD |
+| Tool | Ref. Impl. | MDD |
 | --- | --- | --- |
 | [api-test-platform](https://github.com/VNG-Realisatie/api-test-platform) |[vng-api-common](https://github.com/VNG-Realisatie/vng-api-common) |[Model-Driven-Design](https://github.com/VNG-Realisatie/Model-Driven-Design) | 
 | [api-test-platform-code](https://github.com/VNG-Realisatie/api-test-platform-code) |[zaken-compact](https://github.com/VNG-Realisatie/zaken-compact) |[Model-Driven-Design-Documentatie](https://github.com/VNG-Realisatie/Model-Driven-Design-Documentatie) - [_GitHub Pages_](https://vng-realisatie.github.io/Model-Driven-Design-Documentatie) | 
