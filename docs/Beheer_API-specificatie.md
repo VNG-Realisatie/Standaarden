@@ -3,6 +3,8 @@ layout: landing-page
 title: Beheer API-specificatie
 ---
 
+# Beheer API-specificatie
+
 Beheer van een API-specificatie waarborgt het beschikbaar blijven van alle artefacten en het onderhoud daarvan, nadat deze is ontwikkeld.
 
 Beheer omvat op zijn minst:
