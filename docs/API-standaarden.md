@@ -2,6 +2,9 @@
 layout: landing-page
 title: API Standaarden
 ---
+
+# API Standaarden
+
 Het wordt steeds belangrijker voor (applicatie)componenten om onderling goed samen te werken. Om dit mogelijk te maken kennen componenten (applicatie)services die voor andere componenten toegankelijk zijn via zogenaamde 'Application Programming Interfaces' (API's). Zo kunnen componenten op een gestructureerde manier functionaliteit van andere componenten gebruiken. Bijvoorbeeld door een API aan te bieden die voor andere componenten bruikbaar is om gegevens uit een achterliggende bronregistratie te gebruiken.
 
 Om doelmatig en efficiënt met API's te werken is het belangrijk om de manier waarop API's worden ontwikkeld, gedocumenteerd, getest en werken te standaardiseren. Er zijn een aantal manieren om dit te realiseren. Een daarvan is het kiezen voor een bepaalde architectuurstijl. Net als in de rest van de wereld geldt ook voor de Nederlandse overheid dat de voorkeur momenteel uitgaat naar API's die werken volgens de [REST-architectuurstijl](https://en.wikipedia.org/wiki/Representational_state_transfer) . Maar dan nog geldt dat er aanvullende ontwerpkeuzes moeten worden gemaakt. Daarom is afgesproken om overheidsbrede afspraken te maken over hoe de REST-stijl wordt toegepast bij het ontwerpen van API's. Deze afspraken zijn vastgelegd in de [REST-API Design Rules](https://www.forumstandaardisatie.nl/open-standaarden/rest-api-design-rules) standaard.
@@ -16,8 +19,7 @@ Vanuit de VNG wordt op verschillende manieren gewerkt aan de ontwikkeling van ge
 * Het project Notificatieservices heeft een concept-standaard ontwikkeld voor het notificeren van plaatsgevonden gebeurtenissen, zoals het wijzigen van brongegevens, aan daarop geabonneerde afnemers. Deze [NL GOV for CloudEvents standaard](https://logius.nl/domeinen/gegevensuitwisseling/nl-gov-profile-cloudevents) is nu in beheer bij Logius. 
 * Voor ondersteuning van zaakgericht werken binnen gemeenten zijn [API-standaarden voor zaakgericht werken](https://vng.nl/projecten/zaakgericht-werken-api) ontwikkeld.
 
-
-# Overzicht vastgestelde API standaarden
+## Overzicht vastgestelde API standaarden
 Het overzicht hieronder toont de door het College van Dienstverleningszaken door het VNG-bestuur of de Algemene Ledenvergadering van de VNG vastgestelde API-standaarden.
 
 | Standaard | Beheerder | Status | Datum | Onderdeel van |
@@ -35,8 +37,7 @@ Het overzicht hieronder toont de door het College van Dienstverleningszaken do
 | [WOZ Bevragen API](https://github.com/VNG-Realisatie/Haal-Centraal-WOZ-bevragen/) |	Waarderingskamer        | Pas-toe-of-leg-uit   | 16-12-2021 | Haal Centraal |
 | [Regels bij activiteiten API](https://github.com/VNG-Realisatie/Regels-bij-activiteiten) | VNG Realisatie        | Pas-toe-of-leg-uit   | 01-07-2021 | Fysiek domein |
 
-
-# Vaststelling statussen van standaarden (VNG)
+## Vaststelling statussen van standaarden (VNG)
 Een verbindend verklaarde API-standaard is na een advies van het College van Dienstverleningszaken door het VNG-bestuur of de Algemene Ledenvergadering van de VNG als standaard vastgesteld. Een vaststelling kan verschillende gradaties van verbindendheid tot gevolg hebben: van 'aanbevolen deze standaard te gebruiken' tot 'verplicht deze standaard toe te passen'. In de tabel wordt per vastgestelde API-standaard aangegeven welke mate van verbindendheid geldt. Het [proces van standaardverklaring](https://vng.nl/brieven/proces-standaardverklaring) is vastgesteld door het College van Dienstverleningszaken op 12 oktober 2018. 
 
 Standaarden kunnen volgens [drie niveaus van verbindendheid](https://vng.nl/sites/default/files/brieven/2018/attachments/08_notitie_proces_standaardverklaring_versie_cie_i_en_bestuur.pdf) worden vastgesteld:
