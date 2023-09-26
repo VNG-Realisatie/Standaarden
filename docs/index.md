@@ -21,14 +21,14 @@ daarbij behorende standaarden beschikbaar zijn.
 
 Binnen de GEMMA spelen onderstaande soorten standaarden een belangrijke rol:  
 
-- [API-standaarden](Overzicht vastgestelde standaarden|) die  werken volgens de [REST-architectuurstijl](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm). 
+- [API-standaarden](API-standaarden|) die  werken volgens de [REST-architectuurstijl](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm). 
 Voor het ontwerp van dit type standaarden gelden de [REST-API Design Rules](https://www.forumstandaardisatie.nl/open-standaarden/rest-api-design-rules ). 
 Gebruik van dit standaarden past binnen de overheidsbrede [API-Strategie](https://docs.geostandaarden.nl/api/API-Strategie/) voor de Nederlandse overheid.  
 
-- [StUF-standaarden](Overzicht stuf standaarden) voor geautomatiseerde data-uitwisseling gebaseerd op het 
+- [StUF-standaarden](StUF-standaarden) voor geautomatiseerde data-uitwisseling gebaseerd op het 
 [Standaard Uitwisseling Formaat(StUF)](https://www.forumstandaardisatie.nl/open-standaarden/stuf). 
 De StUF-standaarden worden, voor zover daaraan behoefte is, de komende jaren gefaseerd vervangen door API-standaarden.
 
-- [Informatiemodellen](overzicht informatiemodellen): gestructureerde beschrijvingen van de structuur, semantiek en de eigenschappen van informatie over dingen in de 
+- Informatiemodellen: gestructureerde beschrijvingen van de structuur, semantiek en de eigenschappen van informatie over dingen in de 
 werkelijkheid. Nodig om alle betrokken duidelijkheid te verschaffen over de betekenis en samenhang van concepten en bijvoorbeeld bruikbaar als startpunt voor het 
 ontwikkelen van API-standaarden. Informatiemodellen in de GEMMA voldoen aan de [Metamodel voor Informatiemodellen (MIM)](https://www.forumstandaardisatie.nl/open-standaarden/mim ) standaard.
