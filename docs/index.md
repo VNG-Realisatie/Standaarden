@@ -21,7 +21,7 @@ daarbij behorende standaarden beschikbaar zijn.
 
 Binnen de GEMMA spelen onderstaande soorten standaarden een belangrijke rol:  
 
-- [API-standaarden](API-standaarden|) die  werken volgens de [REST-architectuurstijl](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm). 
+- [API-standaarden](API-standaarden) die  werken volgens de [REST-architectuurstijl](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm). 
 Voor het ontwerp van dit type standaarden gelden de [REST-API Design Rules](https://www.forumstandaardisatie.nl/open-standaarden/rest-api-design-rules ). 
 Gebruik van dit standaarden past binnen de overheidsbrede [API-Strategie](https://docs.geostandaarden.nl/api/API-Strategie/) voor de Nederlandse overheid.  
 
