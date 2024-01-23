@@ -9,7 +9,7 @@ Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk o
 
 ## Overzicht
 
-| Standaard | Beheerder | Actuele versie | StUF versie |
+| Standaard | Beheerder | Laatste versie | StUF versie |
 | --- | --- | --- | --- |
 | [StUF Onderlaag](https://vng-realisatie.github.io/StUF-onderlaag/) |  VNG Realisatie | 3.01 | - |
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
