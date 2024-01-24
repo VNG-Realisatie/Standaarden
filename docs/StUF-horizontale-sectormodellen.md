@@ -24,6 +24,6 @@ Hieronder vind je de horizontale sectormodellen met tussen haakjes de daarbij ho
 
 | Horizontaal sectormodel | versies |
 | --- | --- |
-| StUF-BG | 2.04 (GFO), 3.10 (RSGB) |
-| StUF-ZKN | 3.10 (RGBZ) |
-| StUF-ZTC | 3.10 (Im-ZTC) |
+| [StUF-BG](https://vng-realisatie.github.io/StUF-BG/) | 2.04 (GFO), 3.10 (RSGB) |
+| [StUF-ZKN](https://vng-realisatie.github.io/StUF-ZKN/) | 3.10 (RGBZ) |
+| [StUF-ZTC](https://vng-realisatie.github.io/StUF-ZTC/) | 3.10 (Im-ZTC) |
