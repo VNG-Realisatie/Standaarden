@@ -28,10 +28,10 @@ eigen verticale sectormodellen ontwikkeld.
 [Sectormodel e-Formulieren: StUF-EF](https://vng-realisatie.github.io/StUF-EF/) (gebaseerd op StUF 3.01).
 
 ## Elders in beheer
-[Sectormodel WOZ: StUF-WOZ](https://www.waarderingskamer.nl/basisregistratie-woz-lv-woz/stuf-woz-0312/) (in beheer bij Waarderingskamer, gebaseerd op StUF 3.01)
-[Sectormodel HR: StUF-HR](https://www.kvk.nl/producten-bestellen/kvk-dataservice-aansluiten-overheid/) (nHR) (in beheer bij Kamers van Koophandel, gebaseerd op StUF 3.01)
-[Sectormodel Geo: StUF Geo IMGeo](https://www.geonovum.nl/geo-standaarden/bgt-imgeo#standaarden) (in beheer bij Geonovum, gebaseerd op StUF 3.01)
-[Sectormodel RIHa: StUF-RIHa](https://samenwerken.pleio.nl/groups/view/8b832827-e91b-476c-bb4f-c228b8e5e934/standaardisatie-toezicht-handhaving-milieu/wiki/view/2b38214e-cfc7-42ff-9d5d-eaf069671c42/riha-referentieinformatiemodel-handhaving) (in beheer bij ILT, gebaseerd op StUF 3.01)
-[LV Omgevingsloket](https://www.infomil.nl/onderwerpen/integrale/omgevingsloket/overheden/aansluiten-webservices-omgevingsloket/achtergrondinformatie-stuf-lvo/) (in beheer bij Ministerie van IenM, gebaseerd op StUF 3.01)
-[LV Wet Kenbaarheid Publiekrechtelijke Beperkingen](https://www.kadaster.nl/web/artikel/download/WKPB-sectormodel-1.htm) (in beheer bij Kadaster )
+[Sectormodel WOZ: StUF-WOZ](https://www.waarderingskamer.nl/basisregistratie-woz-lv-woz/stuf-woz-0312/) (in beheer bij Waarderingskamer, gebaseerd op StUF 3.01)<br/>
+[Sectormodel HR: StUF-HR](https://www.kvk.nl/producten-bestellen/kvk-dataservice-aansluiten-overheid/) (nHR) (in beheer bij Kamers van Koophandel, gebaseerd op StUF 3.01)<br/>
+[Sectormodel Geo: StUF Geo IMGeo](https://www.geonovum.nl/geo-standaarden/bgt-imgeo#standaarden) (in beheer bij Geonovum, gebaseerd op StUF 3.01)<br/>
+[Sectormodel RIHa: StUF-RIHa](https://samenwerken.pleio.nl/groups/view/8b832827-e91b-476c-bb4f-c228b8e5e934/standaardisatie-toezicht-handhaving-milieu/wiki/view/2b38214e-cfc7-42ff-9d5d-eaf069671c42/riha-referentieinformatiemodel-handhaving) (in beheer bij ILT, gebaseerd op StUF 3.01)<br/>
+[LV Omgevingsloket](https://www.infomil.nl/onderwerpen/integrale/omgevingsloket/overheden/aansluiten-webservices-omgevingsloket/achtergrondinformatie-stuf-lvo/) (in beheer bij Ministerie van IenM, gebaseerd op StUF 3.01)<br/>
+[LV Wet Kenbaarheid Publiekrechtelijke Beperkingen](https://www.kadaster.nl/web/artikel/download/WKPB-sectormodel-1.htm) (in beheer bij Kadaster )<br/>
 [LV Adressen en Gebouwen (LV BAG)](https://www.kadaster.nl/-/bag-koppelvlak) (LV BAG) (in beheer bij Kadaster )
