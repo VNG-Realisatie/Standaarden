@@ -12,6 +12,7 @@ Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk o
 | Standaard | Beheerder | Laatste versie | StUF versie |
 | --- | --- | --- | --- |
 | [StUF Onderlaag](https://vng-realisatie.github.io/StUF-onderlaag/) |  VNG Realisatie | 3.01 | - |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [Prefill eFormulierservices](https://vng-realisatie.github.io/Prefill-eFormulierenservices/) |  VNG Realisatie | 1.0 | 3.01 |
 | RSGB Bevragingen | &nbsp; | &nbsp; | &nbsp; |
 | [Sectormodel e-Formulieren: StUF-EF](https://vng-realisatie.github.io/StUF-EF/) |  VNG Realisatie | 3.15 | 3.01 |
