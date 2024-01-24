@@ -8,8 +8,8 @@ StUF Sectormodellen en koppelvlakken zijn berichtenstandaarden die de structuren
 Deze gemeentelijke berichtenstandaarden zijn gebaseerd op het Standaard Uitwisseling Formaat, kortweg StUF. De [StUF-standaard](https://vng-realisatie.github.io/StUF-onderlaag/) 
 zegt niets over de inhoud van een specifiek bericht. Daartoe zijn door VNG Realisatie, op basis van de informatiemodellen RSGB, RGBZ en imZTC, zgn. StUF 
 sectormodellen (een berichtenstandaard) ontwikkeld op basis waarvan wel specifiek toepasbare berichten gevormd kunnen worden. Dit zijn de generieke standaarden, 
-ook wel [horizontale sectormodellen]() genoemd, StUF-BG, StUF-ZKN en StUF-ZTC. Ook door externe partijen zoals bijv. de Waarderingskamer, de Kamers van Koophandel, 
-GeoNovum en ICTU zijn StUF sectormodellen ontwikkeld, de zogenaamde [verticale sectormodellen]() (StUF-WOZ, StUF-KvK, StUF-Geo IMGeo en StUF-RIHa), welke 
+ook wel [horizontale sectormodellen](./StUF-horizontale-sectormodellen) genoemd, StUF-BG, StUF-ZKN en StUF-ZTC. Ook door externe partijen zoals bijv. de Waarderingskamer, de Kamers van Koophandel, 
+GeoNovum en ICTU zijn StUF sectormodellen ontwikkeld, de zogenaamde [verticale sectormodellen](./StUF-verticale-sectormodellen) (StUF-WOZ, StUF-KvK, StUF-Geo IMGeo en StUF-RIHa), welke 
 door henzelf beheerd worden. Ook deze zijn allen gebaseerd op een informatiemodel.
 
 Bij gebruik van StUF dient nog veel omtrent inhoud en proces voor het gebruik van de berichten door de opdrachtgever ingevuld te worden. Met gebruik van een 
