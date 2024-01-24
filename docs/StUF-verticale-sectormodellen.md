@@ -5,7 +5,7 @@ title: Verticale sectormodellen
 # Verticale sectormodellen
 
 Verticale sectormodellen bouwen voort op de [horizontale sectormodellen](./StUF-horizontale-sectormodellen) StUF-BG en/of StUF-ZKN. Ze maken 
-dus gebruik van de componenten die zijn gedefinieerd in die horizontale sectormodellen. Vericale sectormodellen voegen daar componenten aan 
+dus gebruik van de componenten die zijn gedefinieerd in die horizontale sectormodellen. Verticale sectormodellen voegen daar componenten aan 
 toe die alleen binnen specifieke domeinen een toepassing vinden. Een goed voorbeeld zijn de componenten die entiteiten in het WOZ domein 
 vertegenwoordigen, bijv. de entiteit Taxatie, Biljet of Aanslagregel. Een verticaal sectormodel wordt, net als een horizontale sectormodel, 
 dan ook altijd gebaseerd op een eigen informatiemodel.
@@ -14,9 +14,9 @@ Net als horizontale sectormodellen kennen verticale sectormodellen berichtencata
 en kunnen de berichtencatalogi 'mutatie' en 'vraagAntwoord' aanwezig zijn. Ook hier geldt dat specifieke berichtencatalogi opgenomen mogen worden.
 
 Verticale maar soms ook horizontale sectormodellen vinden hun toepassing veelal binnen specifieke koppelvlakken. Zo is het koppelvlak Betalen- 
-en Invorderenservices gebaseerd op het verticale sectormodel 'StUF-FIN'. In de lijst met verticale sectormodellen hieronder worden niet de 
-sectormodellen genoemd die alleen worden gebruikt binnen specifieke koppelvlakken. Daarvoor verwijzen wij u naar de betreffende 
-[koppelvlakken](./Koppelvlakken-en-sectormodellen).
+en Invorderenservices gebaseerd op het verticale sectormodel 'StUF-FIN'. In de hieronder staande lijst met verticale sectormodellen worden niet de 
+sectormodellen genoemd die alleen worden gebruikt binnen specifieke koppelvlakken zoals het zojuist genoemde koppelvlak Betalen- 
+en Invorderenservices. Daarvoor verwijzen wij u naar de betreffende [koppelvlakken](./Koppelvlakken-en-sectormodellen).
 
 Er zijn overigens geen verticale sectormodellen die voortbouwen op StUF-ZTC.
 
