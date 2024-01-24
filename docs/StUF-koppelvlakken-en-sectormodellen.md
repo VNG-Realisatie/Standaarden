@@ -28,12 +28,11 @@ In een StUF koppelvlakspecificatie is altijd aangegeven op welke referentiecompo
 leveranciers aan welke referentiecomponenten hun softwareproducten ondersteunen. Hierdoor kan worden nagegaan welke standaarden relevant zijn voor een 
 softwareproduct.
 
-Omdat verschillende ontwikkelingen het vernieuwen van standaarden noodzakelijk hebben gemaakt om invulling te (blijven) geven aan de behoefte en wensen van 
-gemeenten is de doorontwikkeling van de StUF standaard, de StUF sectormodellen en de StUF koppelvlakken stopgezet. Alleen wetswijzigingen, wijzigingen in de 
-Logische Ontwerpen van Basisregistraties en gevonden fouten kunnen aanleiding zijn voor het publiceren van een nieuwe versie van deze standaarden. Zo wordt er 
-voor gezorgd dat gemeenten hun werk kunnen blijven doen. In de tabellen van de volgende secties wordt dan ook naast de relevante StUF standaarden aangegeven 
-welke alternatieven in de vorm van REST of andersoortige API's voorhanden zijn. Aangezien de functionaliteit van een (REST) API niet 1 op 1 hoeft te mappen op 
-de functionaliteit van een koppelvlak kunnen er bij een StUF koppelvlak meerdere API's opgenomen zijn.
+## Doorontwikkeling
+Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk om invulling te (blijven) geven aan de behoefte en wensen van gemeenten. De 
+doorontwikkeling van de StUF standaard, de StUF sectormodellen en de StUF koppelvlakken is daarom stopgezet. Alleen wetswijzigingen, wijzigingen in de Logische 
+Ontwerpen van Basisregistraties en gevonden fouten kunnen aanleiding zijn voor het publiceren van een nieuwe versie van deze standaarden. Zo wordt er voor 
+gezorgd dat gemeenten hun werk kunnen blijven doen. Een toelichting op het vernieuwen van de standaarden is te vinden bij [API-standaarden](https://vng-realisatie.github.io/Standaarden/API-standaarden).
 
 ## Basis- en kerngegevens
 Het aandachtsgebied 'Basis- en kerngegevens' betreft het beheer en gebruik van basis- en kerngegevens uit bijvoorbeeld BAG, GBA (BRP), nHR en BRP van objecten 
