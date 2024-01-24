@@ -16,7 +16,7 @@ en kunnen de berichtencatalogi 'mutatie' en 'vraagAntwoord' aanwezig zijn. Ook h
 Verticale maar soms ook horizontale sectormodellen vinden hun toepassing veelal binnen specifieke koppelvlakken. Zo is het koppelvlak Betalen- 
 en Invorderenservices gebaseerd op het verticale sectormodel 'StUF-FIN'. In de hieronder staande lijst met verticale sectormodellen worden niet de 
 sectormodellen genoemd die alleen worden gebruikt binnen specifieke koppelvlakken zoals het zojuist genoemde koppelvlak Betalen- 
-en Invorderenservices. Daarvoor verwijzen wij u naar de betreffende [koppelvlakken](./Koppelvlakken-en-sectormodellen).
+en Invorderenservices. Daarvoor verwijzen wij u naar de betreffende [koppelvlakken](./StUF-koppelvlakken-en-sectormodellen).
 
 Er zijn overigens geen verticale sectormodellen die voortbouwen op StUF-ZTC.
 
