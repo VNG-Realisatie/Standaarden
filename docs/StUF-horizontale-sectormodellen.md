@@ -12,8 +12,8 @@ Horizontale sectormodellen bestaan uit een aantal XML-Schema bestanden aangevuld
 noemen we ook wel berichtencatalogi. De berichtencatalogi dienen daarbij om de verschillende XML-Schema's te organiseren op basis van hun functiegebieden. 
 Zo heeft elk horizontaal sectormodel de volgende standaard berichtencatalogi.
 
-**entiteiten**: een berichtencatalogus voor het onderbrengen van default componenten;
-**mutatie**: een berichtencatalogus waarin componenten staan welke gebruikt worden voor het verzenden van mutatieberichten;
+**entiteiten**: een berichtencatalogus voor het onderbrengen van default componenten;<br/>
+**mutatie**: een berichtencatalogus waarin componenten staan welke gebruikt worden voor het verzenden van mutatieberichten;<br/>
 **vraagAntwoord**: een berichtencatalogus waarin componenten staan welke gebruikt worden voor het ophalen van gegevens.
 
 Naast deze berichtencatalogi mogen er nog andere berichtencatalogi in horizontale sectormodellen worden gebruikt. Die berichtencatalogi worden dan vaak 
