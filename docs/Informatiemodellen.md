@@ -1,0 +1,19 @@
+# Informatiemodellen
+
+Hier vind je de specificaties van de door VNG Realisatie beheerde informatiemodellen, gericht op informatiearchitecten en ontwikkelaars die met deze modellen werken.
+
+Als je meer wilt weten over informatiemodellen en welke van belang zijn voor gemeenten, kun je terecht op [GEMMA online](https://redactie.gemmaonline.nl/index.php/Wat_is_een_informatiemodel). Daar vind je een lijst van alle voor gemeenten relevante informatiemodellen, ook die niet door VNG Realisatie worden onderhouden.
+
+## Wat is een informatiemodel?
+Een informatiemodel is een gestructureerde beschrijving van de structuur, semantiek en eigenschappen van informatie over entiteiten in de werkelijkheid. Deze modellen bieden duidelijkheid over de betekenis en samenhang van concepten en dienen als basis voor het ontwikkelen van applicaties en systemen.
+
+Informatiemodellen voldoen bij voorkeur aan de [Metamodel voor Informatiemodellen (MIM)](https://www.forumstandaardisatie.nl/open-standaarden/mim) standaard. Door gebruik te maken van deze standaard wordt de consistentie en interoperabiliteit van de informatiemodellen bevorderd, wat bijdraagt aan een efficiënte en effectieve informatievoorziening binnen gemeenten.
+
+## Welke informatiemodellen?
+De informatiemodellen zijn onderverdeeld in verschillende categorieën, elk met hun eigen specifieke toepassingen en richtlijnen:
+
+- [Informatiemodel Basis- en Kerngegevens (RSGB)](documenten/RSG_Basisgegevens_202_deel_1_(in_gebruik).pdf): gebruik van basis- en kerngegevens waaraan gemeentebreed behoefte is.
+- [Informatiemodellen Zaakgericht werken]():
+    - Informatiemodel Zaken (RGBZ): gebruik van gegevens door de gemeente maar ook door burgers en bedrijven over de voortgang en afhandeling van zaken (en bijbehorende documenten) en het afleggen van verantwoording daarover.
+    - Informatiemodel Zaaktypen (ImZTC): specificatie van de kenmerken van zaaktypen in een zaaktypecatalogus, de betekenis daarvan en hoe ze zich tot elkaar verhouden.
+- [Informatiemodellen als onderdeel van koppelvlakbeschrijvingen](): Voor een aantal domeinen zijn informatiemodellen uitgewerkt als onderdeel van het opstellen van koppelvlakbeschrijvingen.
