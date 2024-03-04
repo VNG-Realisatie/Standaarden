@@ -1,3 +1,8 @@
+---
+layout: landing-page
+title: Informatiemodellen
+---
+
 # Informatiemodellen
 
 Op deze pagina vind je de specificaties van de door VNG Realisatie beheerde informatiemodellen, gericht op informatiearchitecten en ontwikkelaars die met deze modellen werken.
