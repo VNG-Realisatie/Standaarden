@@ -48,7 +48,6 @@ die daarbij een rol spelen.
 | [Kadastrale mutatieservices](https://vng-realisatie.github.io/Kadastrale-mutatieservices/) (BRK-Levering) |  VNG Realisatie | 1.0 | 3.01 |
 | [Sectormodel Geo: StUF Geo IMGeo](https://www.geonovum.nl/geo-standaarden/bgt-imgeo#standaarden) (BGT)| Geonovum | 1.3 | 3.01 |
 | [Sectormodel HR: StUF-HR](https://www.kvk.nl/producten-bestellen/kvk-dataservice-aansluiten-overheid/) (nHR) | Kamers van Koophandel | ? | 3.01 |
-| [LV Wet Kenbaarheid Publiekrechtelijke Beperkingen](https://www.kadaster.nl/web/artikel/download/WKPB-sectormodel-1.htm) (Wkpb) | Kadaster | ? | 3.01 |
 
 ## Zaken en documenten
 Het aandachtsgebied 'Zaken en documenten' heeft betrekking op zaken die bij een gemeente in behandeling zijn en alle daaraan gerelateerde documenten. Denk daarbij 
