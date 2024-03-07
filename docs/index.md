@@ -1,8 +1,8 @@
 ---
 layout: landing-page
-title: Home Standaarden
+title: VNG-standaarden
 ---
-
+# VNG-standaarden
 Hier vindt je de specificaties van de door VNG Realisatie beheerde standaarden, gericht op informatiearchitecten en ontwikkelaars die met deze standaarden werken.
 
 Als je wilt weten wat een standaard is en welke standaarden belangrijk zijn voor gemeenten, kunt je terecht op [GEMMA online](https://redactie.gemmaonline.nl/index.php/Wat_is_een_standaard). Daar vindt je de [GEMMA standaardenlijst](https://www.gemmaonline.nl/index.php/GEMMA_standaardenlijst) met een overzicht van alle relevante standaarden voor de gemeentelijke informatievoorziening, evenals richtlijnen voor wanneer een standaard gebruikt moet worden. Bij elke [referentiecomponent](https://www.gemmaonline.nl/index.php/GEMMA_Referentiecomponenten) wordt aangegeven welke standaarden aanbevolen of verplicht zijn.
