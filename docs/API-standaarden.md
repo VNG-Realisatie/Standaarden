@@ -1,6 +1,6 @@
 ---
 layout: landing-page
-title: API Standaarden
+title: Wat is een API-standaard?
 ---
 
 <!-- # API-standaarden
@@ -9,7 +9,7 @@ Op deze pagina vind je de specificaties van de door VNG Realisatie beheerde API-
 
 Wil je, bijvoorbeeld als inkoper, weten welke API-standaarden aanbevolen of verplicht zijn voor een specifiek type applicatie? Neem dan een kijkje op [GEMMA online](https://gemmaonline.nl/index.php/API-standaarden) of raadpleeg de [Softwarecatalogus](https://www.softwarecatalogus.nl/pakketten) om te zien welke softwarepakketten een bepaalde standaard ondersteunen. -->
 
-# Wat is een API-standaard
+# Wat is een API-standaard?
 
 Een Application Programming Interface (API) is een manier om twee of meer computerprogramma's met elkaar te laten communiceren. Het is een soort software-interface die een dienst aanbiedt aan andere stukjes software.
 
