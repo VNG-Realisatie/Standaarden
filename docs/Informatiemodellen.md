@@ -1,6 +1,6 @@
 ---
 layout: landing-page
-title: Wat is een informatiemodel?
+title: Wat is een Informatiemodel?
 ---
 
 <!--# Informatiemodellen
@@ -9,7 +9,7 @@ Op deze pagina vind je de specificaties van de door VNG Realisatie beheerde info
 
 Als je meer wilt weten over informatiemodellen en welke van belang zijn voor gemeenten, kun je terecht op [GEMMA online](https://redactie.gemmaonline.nl/index.php/Wat_is_een_informatiemodel). Daar vind je een lijst van alle voor gemeenten relevante informatiemodellen, ook die niet door VNG Realisatie worden onderhouden. -->
 
-# Wat is een informatiemodel?
+# Wat is een Informatiemodel?
 Een informatiemodel is een gestructureerde beschrijving van de structuur, semantiek en eigenschappen van de voor het betreffende domein benodigde informatie over entiteiten in de werkelijkheid. Deze modellen bieden duidelijkheid over de betekenis en samenhang van concepten en dienen als basis voor het ontwikkelen van applicaties en systemen.
 
 Informatiemodellen voldoen bij voorkeur aan de [Metamodel voor Informatiemodellen (MIM)](https://www.forumstandaardisatie.nl/open-standaarden/mim) standaard. Door gebruik te maken van deze standaard wordt de consistentie en interoperabiliteit van de informatiemodellen bevorderd, wat bijdraagt aan een efficiënte en effectieve informatievoorziening binnen gemeenten.
