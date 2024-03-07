@@ -15,7 +15,7 @@ Een Application Programming Interface (API) is een manier om twee of meer comput
 
 De API's werken volgens de [REST-architectuurstijl](https://en.wikipedia.org/wiki/Representational_state_transfer) en volgen de [REST-API Design Rules](https://www.forumstandaardisatie.nl/open-standaarden/rest-api-design-rules) standaard.
 
-## Hoe maakt VNG Realisatie API-standaarden
+<!-- ## Hoe maakt VNG Realisatie API-standaarden
 
 Lees hoe VNG Realisatie API's ontwikkelt, van beoordelingsaspecten tot kwaliteitscriteria en beheer van API-specificaties, door de volgende bronnen te verkennen:
 
@@ -24,7 +24,7 @@ Lees hoe VNG Realisatie API's ontwikkelt, van beoordelingsaspecten tot kwaliteit
 - [API-kwaliteitscriteria](API-kwaliteitscriteria)
 - [Beheer API-specificatie](Beheer_API-specificatie)
 
-Op de website van VNG.nl staat een [overzicht van alle door het College van Dienstverleningszaken door het VNG-bestuur of de Algemene Ledenvergadering van de VNG vastgestelde API-standaarden](https://vng.nl/artikelen/overzicht-gemeentelijke-standaarden). Er staat uitgelegd welke statussen er zijn en hoe het proces tot [proces van standaardverklaring](https://vng.nl/brieven/proces-standaardverklaring) is vastgesteld door het College van Dienstverleningszaken op 12 oktober 2018.
+Op de website van VNG.nl staat een [overzicht van alle door het College van Dienstverleningszaken door het VNG-bestuur of de Algemene Ledenvergadering van de VNG vastgestelde API-standaarden](https://vng.nl/artikelen/overzicht-gemeentelijke-standaarden). Er staat uitgelegd welke statussen er zijn en hoe het proces tot [proces van standaardverklaring](https://vng.nl/brieven/proces-standaardverklaring) is vastgesteld door het College van Dienstverleningszaken op 12 oktober 2018. -->
 
 ## Welke API-standaarden
 
