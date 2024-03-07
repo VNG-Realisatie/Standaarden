@@ -1,6 +1,6 @@
 ---
 layout: landing-page
-title: Informatiemodellen
+title: Wat is een informatiemodel?
 ---
 
 <!--# Informatiemodellen
