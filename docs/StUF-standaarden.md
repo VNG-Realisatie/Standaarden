@@ -1,13 +1,13 @@
 ---
 layout: landing-page
-title: StUF Standaarden
+title: Wat is een StUF-standaard?
 ---
 
-# StUF-standaarden
+# Wat is een StUF-standaard?
 
-Op deze pagina vind je de specificaties van de door VNG Realisatie beheerde StUF-standaarden, gericht op ontwikkelaars die met deze standaarden werken.
+<!--Op deze pagina vind je de specificaties van de door VNG Realisatie beheerde StUF-standaarden, gericht op ontwikkelaars die met deze standaarden werken.
 
-Wil je, bijvoorbeeld als inkoper, weten welke StUF-standaarden aanbevolen of verplicht zijn voor een specifiek type applicatie? Neem dan een kijkje op [GEMMA online](https://gemmaonline.nl/index.php/StUF-standaarden) of raadpleeg de [Softwarecatalogus](https://www.softwarecatalogus.nl/pakketten) om te zien welke softwarepakketten een bepaalde standaard ondersteunen.
+Wil je, bijvoorbeeld als inkoper, weten welke StUF-standaarden aanbevolen of verplicht zijn voor een specifiek type applicatie? Neem dan een kijkje op [GEMMA online](https://gemmaonline.nl/index.php/StUF-standaarden) of raadpleeg de [Softwarecatalogus](https://www.softwarecatalogus.nl/pakketten) om te zien welke softwarepakketten een bepaalde standaard ondersteunen. -->
 
 ## Wat is StUF?
 
