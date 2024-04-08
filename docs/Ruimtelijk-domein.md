@@ -15,7 +15,7 @@ Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk o
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [Wabo-BAG services](https://vng-realisatie.github.io/Wabo-BAG-Services/) |  VNG Realisatie | 1.0 | 3.01 |
 | [Toezicht- en Handhavenservices](https://vng-realisatie.github.io/Toezicht-en-Handhavenservices/) |  VNG Realisatie | 2.0 | 3.01 |
-| [StUF-Geo BAG](https://www.geonovum.nl/onderwerpen/bgt-imgeo-standaarden/nieuws/bag-bgt-koppelvlak-nu-definitief) | Geonovum | ? | 3.01 |
+| [StUF-Geo BAG](https://www.geonovum.nl/geo-standaarden/bgt-imgeo) | Geonovum | ? | 3.01 |
 | [LV Omgevingsloket](https://www.infomil.nl/onderwerpen/integrale/omgevingsloket/overheden/aansluiten-webservices-omgevingsloket/achtergrondinformatie-stuf-lvo/) | Ministerie van IenM | 3.05 | 3.01 |
 | [Sectormodel RIHa: StUF-RIHa](https://samenwerken.pleio.nl/groups/view/8b832827-e91b-476c-bb4f-c228b8e5e934/standaardisatie-toezicht-handhaving-milieu/wiki/view/2b38214e-cfc7-42ff-9d5d-eaf069671c42/riha-referentieinformatiemodel-handhaving) | ILT | 2.0  | 3.01 |
 
