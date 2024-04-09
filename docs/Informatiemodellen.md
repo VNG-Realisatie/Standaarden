@@ -18,9 +18,9 @@ Informatiemodellen voldoen bij voorkeur aan de [Metamodel voor Informatiemodelle
 De informatiemodellen zijn onderverdeeld in verschillende categorieën, elk met hun eigen specifieke toepassingen en richtlijnen:
 
 - Informatiemodel Basis- en Kerngegevens (RSGB): gebruik van basis- en kerngegevens waaraan gemeentebreed behoefte is:
-  - [Deel I](documenten/RSG_Basisgegevens_202_deel_1_(in_gebruik).pdf) beschrijft het RSGB op hoofdlijnen en licht het referentiemodel nader toe. 
-  - [Deel II](documenten/RSG_Basisgegevens_202_deel_II_(in_gebruik).pdf) bevat de specificaties van de componenten waaruit het RSGB is opgebouwd, dit deel is vooral als ‘naslagwerk’ bedoeld
+  - [Deel I](documenten/RSGB/RSG_Basisgegevens_202_deel_1_(in_gebruik).pdf) beschrijft het RSGB op hoofdlijnen en licht het referentiemodel nader toe. 
+  - [Deel II](documenten/RSGB/RSG_Basisgegevens_202_deel_II_(in_gebruik).pdf) bevat de specificaties van de componenten waaruit het RSGB is opgebouwd, dit deel is vooral als ‘naslagwerk’ bedoeld
 - Informatiemodellen Zaakgericht werken:
-    - [Informatiemodel Zaken (RGBZ)](documenten/RGB_Zaken_1_0_(in_gebruik)_201000922.pdf): gebruik van gegevens door de gemeente maar ook door burgers en bedrijven over de voortgang en afhandeling van zaken (en bijbehorende documenten) en het afleggen van verantwoording daarover.
-    - [Informatiemodel Zaaktypen (ImZTC)](documenten/GEMMA_ZTC2_-_Informatiemodel_v2.1_20140701.pdf): specificatie van de kenmerken van zaaktypen in een zaaktypecatalogus, de betekenis daarvan en hoe ze zich tot elkaar verhouden.
+    - [Informatiemodel Zaken (RGBZ)](documenten/RGBZ/RGB_Zaken_1_0_(in_gebruik)_201000922.pdf): gebruik van gegevens door de gemeente maar ook door burgers en bedrijven over de voortgang en afhandeling van zaken (en bijbehorende documenten) en het afleggen van verantwoording daarover.
+    - [Informatiemodel Zaaktypen (ImZTC)](documenten/ImZTC/GEMMA_ZTC2_-_Informatiemodel_v2.1_20140701.pdf): specificatie van de kenmerken van zaaktypen in een zaaktypecatalogus, de betekenis daarvan en hoe ze zich tot elkaar verhouden.
 - [Informatiemodellen als onderdeel van koppelvlakbeschrijvingen](StUF-koppelvlakken-en-sectormodellen.md): Voor een aantal domeinen zijn informatiemodellen uitgewerkt als onderdeel van het opstellen van koppelvlakbeschrijvingen.
