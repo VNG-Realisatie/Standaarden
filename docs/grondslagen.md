@@ -13,7 +13,7 @@ In de onderstaande tabel geven we aan op welke Informatiemodellen de StUF sector
 | RGBZ 1.0 | StUF-ZKN 3.10 |
 | ImZTC 2.1 | StUF-ZTC 3.10 |
 
-De StUF sectormodellen StUF-ZKN en StUF-ZTC zijn op het StUF sectormodel StUF-BG gebaseerd. Daarnaast deldt dat de meeste StuF koppelvlakspecificaties gebaseerd zijn op een van deze StUF sectormodellen. In de onderstaande tabel, waarin alleen de VNG Realisatie standaarden zijn opgenomen, verduidelijken we die hierarchie.
+De StUF sectormodellen StUF-ZKN en StUF-ZTC zijn op het StUF sectormodel StUF-BG gebaseerd. Daarnaast deldt dat de meeste StuF koppelvlakspecificaties gebaseerd zijn op een van deze StUF sectormodellen. In de onderstaande tabel, waarin alleen de VNG Realisatie standaarden zijn opgenomen, verduidelijken we die hierarchie. De standaard in de eerste cel vormt de basis voor de standaard in de tweede cel. Deze vormt op zijn beurt weer de basis voor de standaard in de derde cel, etc...
 
 | StUF onderlaag | StUF sectormodel | StUF sectormodel | StUF Koppelvlakspecificatie |
 | :-: | :-: | :-: | --- |
