@@ -11,8 +11,8 @@ Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk o
 
 | StUF Sectormodel/Koppelvlakspecificatie | Beheerder | Gebaseerd op *Informatiemodel*/StUF sectormodel | StUF versie |
 | --- | --- | --- | --- |
-| [Sectormodel Zaken: StUF-ZKN 3.10](https://vng-realisatie.github.io/StUF-ZKN/) |  VNG Realisatie | [*RGBZ*](https://vng-realisatie.github.io/RGBZ/) | [3.01](https://vng-realisatie.github.io/StUF-onderlaag/) |
-| [Sectormodel Zaaktypen(-catalogus): StUF–ZTC 3.10](https://vng-realisatie.github.io/StUF-ZTC/) |  VNG Realisatie | [*ImZTC*](https://vng-realisatie.github.io/ImZTC/) | [3.01](https://vng-realisatie.github.io/StUF-onderlaag/) |
+| [Sectormodel Zaken: StUF-ZKN 3.10](https://vng-realisatie.github.io/StUF-ZKN/) |  VNG Realisatie | [*RGBZ 1.0*](https://vng-realisatie.github.io/RGBZ/) | [3.01](https://vng-realisatie.github.io/StUF-onderlaag/) |
+| [Sectormodel Zaaktypen(-catalogus): StUF–ZTC 3.10](https://vng-realisatie.github.io/StUF-ZTC/) |  VNG Realisatie | [*ImZTC 2.1*](https://vng-realisatie.github.io/ImZTC/) | [3.01](https://vng-realisatie.github.io/StUF-onderlaag/) |
 | [Zaak- en Documentservices](https://vng-realisatie.github.io/Zaak-en-Documentservices/) |  VNG Realisatie | [StUF-ZKN 3.10](https://vng-realisatie.github.io/StUF-ZKN/) | [3.01](https://vng-realisatie.github.io/StUF-onderlaag/) |
 | [Documentcreatieservices](https://vng-realisatie.github.io/Documentcreatieservices/) |  VNG Realisatie | [StUF-ZKN 3.10](https://vng-realisatie.github.io/StUF-ZKN/) | [3.01](https://vng-realisatie.github.io/StUF-onderlaag/) |
 
