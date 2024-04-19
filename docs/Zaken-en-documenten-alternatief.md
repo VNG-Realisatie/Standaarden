@@ -9,7 +9,7 @@ Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk o
 
 ## Overzicht
 
-| StUF Sectormodel/Koppelvlakspecificatie | Beheerder | Gebaseerd op<br/>_Informatiemodel_/StUF sectormodel | StUF versie |
+| StUF Sectormodel/Koppelvlakspecificatie | Beheerder | Gebaseerd op<br/>_**Informatiemodel**_/StUF sectormodel | StUF versie |
 | --- | --- | --- | --- |
 | [Sectormodel Zaken: StUF-ZKN 3.10](https://vng-realisatie.github.io/StUF-ZKN/) |  VNG Realisatie | [*RGBZ 1.0*](https://vng-realisatie.github.io/RGBZ/) / [StUF-BG 3.10](https://vng-realisatie.github.io/StUF-BG/) | [3.01](https://vng-realisatie.github.io/StUF-onderlaag/) |
 | [Sectormodel Zaaktypen(-catalogus): StUF–ZTC 3.10](https://vng-realisatie.github.io/StUF-ZTC/) |  VNG Realisatie | [*ImZTC 2.1*](https://vng-realisatie.github.io/ImZTC/) / [StUF-BG 3.10](https://vng-realisatie.github.io/StUF-BG/) | [3.01](https://vng-realisatie.github.io/StUF-onderlaag/) |
