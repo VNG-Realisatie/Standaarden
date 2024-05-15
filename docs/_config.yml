@@ -1,4 +1,4 @@
-baseurl: "/Standaarden"
+# baseurl: "/Standaarden"
 apiname: "VNG Standaarden Landingspagina"
 url: "http://localhost:4000"
 
@@ -6,7 +6,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
 
-remote_theme: https://github.com/VNG-Realisatie/jekyll-theme-vng-realisatie
+remote_theme: VNG-Realisatie/jekyll-theme-vng-realisatie
 
 github: VNG-Realisatie/Standaarden
 
