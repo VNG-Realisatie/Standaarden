@@ -24,7 +24,7 @@ De gehele groep van alle op een van de StUF-onderlaag versies gebaseerde specifi
 Regiegroep Gegevens- en berichtenstandaarden.
 
 ## StUF-familie
-Een groep van alle op eenzelfde versie van de StUF-onderlaag gebaseerde specificaties.
+Een groep van alle op eenzelfde versie van de StUF-onderlaag gebaseerde StUF-(berichten)standaarden.
 
 ## StUF-sectormodel
 Een op een van de StUF-onderlaag versies en een informatiemodel gebaseerde specificatie. In zo'n informatiemodel zijn dan de voor de gemeenten meest 
