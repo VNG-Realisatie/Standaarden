@@ -15,7 +15,7 @@ tussen applicaties in het gemeentelijke veld. Vormt de basis voor StUF sectormod
 ## StUF-standaard
 M.b.t. deze term maken we onderscheid tussen '**DE**' StUF-standaard en '**EEN**' StUF-standaard.
 * '**DE**' StUF-standaard is een versie onafhankelijke verwijzing naar de StUF-onderlaag. Bezigen we deze term dan bedoelen we dus het fenomeen
-StUF-standaard zonder dat we een specifieke versie bedoelen;
+StUF-standaard zonder dat we een specifieke versie aanduiden;
 * '**EEN**' StUF-standaard is een van de op een van de StUF-onderlaag versies gebaseerde specificaties al dan niet ooit officieel vastgesteld als 
 tandaard door de Regiegroep Gegevens- en berichtenstandaarden. In dit geval doelen we dus wel op een specifieke versie.
 
