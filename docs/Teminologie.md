@@ -13,7 +13,7 @@ tussen applicaties in het gemeentelijke veld. Vormt de basis voor StUF sectormod
 * de door alle StUF-sectormodellen en StUF-koppelvlakken gebruikte XML-Schema's en WSDL bestanden.
 
 ## StUF-standaard
-M.b.t. deze term maken we onderscheid tussen '**de** StUF-standaard en **een** StUF-standaard.
+M.b.t. deze term maken we onderscheid tussen '**DE**' StUF-standaard en '**EEN**' StUF-standaard.
 * '**DE**' StUF-standaard is een versie onafhankelijke verwijzing naar de StUF-onderlaag. Bezigen we deze term dan bedoelen we dus het fenomeen
 StUF-standaard zonder dat we een specifieke versie bedoelen;
 * '**EEN**' StUF-standaard is een van de op een van de StUF-onderlaag versies gebaseerde specificaties al dan niet ooit officieel vastgesteld als 
