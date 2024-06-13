@@ -9,10 +9,10 @@ Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk o
 
 ## Overzicht
 
-| Standaard | Beheerder | Laatste versie | StUF versie |
-| --- | --- | --- | --- |
-| [StUF Onderlaag](https://vng-realisatie.github.io/StUF-onderlaag/) |  VNG Realisatie | 3.01 | - |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| Standaard | Beheerder | Laatste versie | StUF versie | Status |
+| --- | --- | --- | --- | --- |
+| [StUF Onderlaag](https://vng-realisatie.github.io/StUF-onderlaag/) |  VNG Realisatie | 3.01 | - | In gebruik |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | [Prefill eFormulierservices](https://vng-realisatie.github.io/Prefill-eFormulierenservices/) |  VNG Realisatie | 1.0 | 3.01 | In gebruik |
 | [Sectormodel e-Formulieren: StUF-EF](https://vng-realisatie.github.io/StUF-EF/) |  VNG Realisatie | 3.15 | 3.01 | Einde ondersteuning |
 | [Sectormodel WOZ: StUF-WOZ](https://www.waarderingskamer.nl/basisregistratie-woz-lv-woz/stuf-woz-0312/) | Waarderingskamer | 3.12 | 3.01 |  |
