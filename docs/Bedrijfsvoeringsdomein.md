@@ -9,11 +9,11 @@ Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk o
 
 ## Overzicht
 
-| Standaard | Beheerder | Laatste versie | StUF versie |
-| --- | --- | --- | --- |
-| [StUF Onderlaag](https://vng-realisatie.github.io/StUF-onderlaag/) |  VNG Realisatie | 3.01 | - |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | 
-| [Koppelvlak Betalen- en Invorderenservices](https://vng-realisatie.github.io/Betalen-en-Invorderenservices/) |  VNG Realisatie | 1.0 | 3.01 |
+| Standaard | Beheerder | Laatste versie | StUF versie | Status |
+| --- | --- | --- | --- | --- |
+| [StUF Onderlaag](https://vng-realisatie.github.io/StUF-onderlaag/) |  VNG Realisatie | 3.01 | - | In gebruik |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| [Koppelvlak Betalen- en Invorderenservices](https://vng-realisatie.github.io/Betalen-en-Invorderenservices/) |  VNG Realisatie | 1.0 | 3.01 | In gebruik |
 
 <br/><br/><br/>
 
