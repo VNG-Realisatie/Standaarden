@@ -9,15 +9,15 @@ Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk o
 
 ## Overzicht
 
-| Standaard | Beheerder | Laatste versie | StUF versie |
-| --- | --- | --- | --- |
-| [StUF Onderlaag](https://vng-realisatie.github.io/StUF-onderlaag/) |  VNG Realisatie | 3.01 | - |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| [StUF Jeugdzorg (CORV)](https://vng-realisatie.github.io/StUF-Jeugdzorg/) |  VNG Realisatie | 1.0 | 3.01 |
-| [Regie- en zaakservices](https://vng-realisatie.github.io/Regie-en-zaakservices/) |  VNG Realisatie | 1.0 | 3.01 |
-| [StUF-GGk berichtenvelop ISD-Keten](https://vng-realisatie.github.io/StUF-koppelvlak-iWmo-iJw/) |  VNG Realisatie | 2.1 | 3.01 |
-| Participatieladder | &nbsp; | &nbsp; | &nbsp; |
-| Kinderopvang | &nbsp; | &nbsp; | &nbsp; |
+| Standaard | Beheerder | Laatste versie | StUF versie | Status |
+| --- | --- | --- | --- | --- |
+| [StUF Onderlaag](https://vng-realisatie.github.io/StUF-onderlaag/) |  VNG Realisatie | 3.01 | - | In gebruik |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| [StUF Jeugdzorg (CORV)](https://vng-realisatie.github.io/StUF-Jeugdzorg/) |  VNG Realisatie | 1.0 | 3.01 | In gebruik |
+| [Regie- en zaakservices](https://vng-realisatie.github.io/Regie-en-zaakservices/) |  VNG Realisatie | 1.0 | 3.01 | In gebruik |
+| [StUF-GGk berichtenvelop ISD-Keten](https://vng-realisatie.github.io/StUF-koppelvlak-iWmo-iJw/) |  VNG Realisatie | 2.1 | 3.01 | In gebruik |
+| Participatieladder | &nbsp; | &nbsp; | &nbsp; |  |
+| Kinderopvang | &nbsp; | &nbsp; | &nbsp; |  |
 
 <br/><br/><br/>
 
