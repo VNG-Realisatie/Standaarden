@@ -9,14 +9,14 @@ Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk o
 
 ## Overzicht
 
-| Standaard | Beheerder | Actuele versie | StUF versie |
-| --- | --- | --- | --- |
-| [StUF Onderlaag](https://vng-realisatie.github.io/StUF-onderlaag/) |  VNG Realisatie | 3.01 | - |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| [Sectormodel Zaken: StUF-ZKN](https://vng-realisatie.github.io/StUF-ZKN/) (RGBZ) |  VNG Realisatie | 3.10 | 3.01 |
-| [Sectormodel Zaaktypen(-catalogus): StUF–ZTC](https://vng-realisatie.github.io/StUF-ZTC/) (ImZTC) |  VNG Realisatie | 3.10 | 3.01 |
-| [Zaak- en Documentservices](https://vng-realisatie.github.io/Zaak-en-Documentservices/) |  VNG Realisatie | 1.2 | 3.01 |
-| [Documentcreatieservices](https://vng-realisatie.github.io/Documentcreatieservices/) |  VNG Realisatie | 1.1 | 3.01 |
+| Standaard | Beheerder | Actuele versie | StUF versie | Status |
+| --- | --- | --- | --- | --- |
+| [StUF Onderlaag](https://vng-realisatie.github.io/StUF-onderlaag/) |  VNG Realisatie | 3.01 | - | In gebruik |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| [Sectormodel Zaken: StUF-ZKN](https://vng-realisatie.github.io/StUF-ZKN/) (RGBZ) |  VNG Realisatie | 3.10 | 3.01 | In gebruik |
+| [Sectormodel Zaaktypen(-catalogus): StUF–ZTC](https://vng-realisatie.github.io/StUF-ZTC/) (ImZTC) |  VNG Realisatie | 3.10 | 3.01 | In gebruik |
+| [Zaak- en Documentservices](https://vng-realisatie.github.io/Zaak-en-Documentservices/) |  VNG Realisatie | 1.2 | 3.01 | In gebruik |
+| [Documentcreatieservices](https://vng-realisatie.github.io/Documentcreatieservices/) |  VNG Realisatie | 1.1 | 3.01 | In gebruik |
 
 <br/><br/><br/>
 
