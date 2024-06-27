@@ -17,7 +17,6 @@ Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk o
 | [Regie- en zaakservices](https://vng-realisatie.github.io/Regie-en-zaakservices/) |  VNG Realisatie | 1.0 | 3.01 | In gebruik |
 | [StUF-GGk berichtenvelop ISD-Keten](https://vng-realisatie.github.io/StUF-koppelvlak-iWmo-iJw/) |  VNG Realisatie | 2.1 | 3.01 | In gebruik |
 | Participatieladder | &nbsp; | &nbsp; | &nbsp; |  |
-| Kinderopvang | &nbsp; | &nbsp; | &nbsp; |  |
 
 <br/><br/><br/>
 
