@@ -94,8 +94,6 @@ participatie.
 | [StUF Jeugdzorg (CORV)](https://vng-realisatie.github.io/StUF-Jeugdzorg/) |  VNG Realisatie | 1.0 | 3.01 |
 | [Regie- en zaakservices](https://vng-realisatie.github.io/Regie-en-zaakservices/) |  VNG Realisatie | 1.0 | 3.01 |
 | [StUF-GGk berichtenvelop ISD-Keten](https://vng-realisatie.github.io/StUF-koppelvlak-iWmo-iJw/) |  VNG Realisatie | 2.1 | 3.01 |
-| Participatieladder | &nbsp; | &nbsp; | &nbsp; |
-| Kinderopvang | &nbsp; | &nbsp; | &nbsp; |
 
 ## Bedrijfsvoeringsdomein
 Onder het Bedrijfsvoeringsdomein vallen bijvoorbeeld de interacties die de geldstromen van een gemeente ondersteunen.
