@@ -38,4 +38,4 @@ Domeinspecifieke berichtstandaarden
 
 ## Compliancy
 
-Voor aantonen dat je pakket voldoet aan de StUF-standaard gebruik je het [StUF-testplatform](StUFtestplatform)
+Voor aantonen dat je pakket voldoet aan de StUF-standaard gebruik je het [StUF-testplatform](StUFtestplatform)<br/><br/><br/>
