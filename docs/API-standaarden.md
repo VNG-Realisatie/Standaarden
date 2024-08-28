@@ -32,7 +32,7 @@ Vanuit de VNG wordt op verschillende manieren gewerkt aan de ontwikkeling van ge
 
 - Via het programma HaalCentraal is gewerkt aan het ontwikkelen van de [HaalCentraal API's](https://vng-realisatie.github.io/Haal-Centraal/) zodat gemeenten beter data kunnen opvragen uit de basisregistraties.
 - Het project Notificatieservices heeft een concept-standaard ontwikkeld voor het notificeren van plaatsgevonden gebeurtenissen, zoals het wijzigen van brongegevens, aan daarop geabonneerde afnemers. Deze [NL GOV for CloudEvents standaard](https://logius.nl/domeinen/gegevensuitwisseling/nl-gov-profile-cloudevents) is nu in beheer bij Logius.
-- Voor ondersteuning van zaakgericht werken binnen gemeenten zijn [API-standaarden voor zaakgericht werken](https://vng.nl/projecten/zaakgericht-werken-api) ontwikkeld.
+- Voor ondersteuning van zaakgericht werken binnen gemeenten zijn [API-standaarden voor zaakgericht werken](https://vng-realisatie.github.io/gemma-zaken/standaard/) ontwikkeld.
 
 Voor een overzicht van de voor gemeenten relevante API-standaarden, ga naar de [GEMMA standaardenlijst (API-standaarden)](https://www.gemmaonline.nl/index.php?title=GEMMA_standaardenlijst&type=API-standaarden).
 
