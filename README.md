@@ -1,3 +1,8 @@
+| Eigenaar | Ingevuld door |
+| --- | --- |
+| Kennis centrum Architectuur | Robert Melskens, Mark Backer, Peter Makkes |
+<hr/>
+
 # Standaarden
 
 ## GitHub repositories
