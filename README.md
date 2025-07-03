@@ -61,6 +61,5 @@
 | *Jekyll themes* | | | 
 | [jekyll-theme-haal-centraal](https://github.com/VNG-Realisatie/jekyll-theme-haal-centraal) | | | 
 | [jekyll-theme-imvertor](https://github.com/VNG-Realisatie/jekyll-theme-imvertor) | | | 
-| [jekyll-theme-vng](https://github.com/VNG-Realisatie/jekyll-theme-vng) | | | 
 | [jekyll-theme-vng-realisatie](https://github.com/VNG-Realisatie/jekyll-theme-vng-realisatie) | | | 
 
