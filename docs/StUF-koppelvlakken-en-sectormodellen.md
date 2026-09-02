@@ -105,5 +105,5 @@ Onder het Bedrijfsvoeringsdomein vallen bijvoorbeeld de interacties die de gelds
 ## Compliancy
 Het is de verantwoordelijkheid van de opdrachtgever om zelf te controleren of de berichten voldoen aan de specificaties. Voor een aantal standaarden kan een 
 leverancier compliancy behalen op het StUF Test Platform. De opdrachtgever kan dan exact zien in welke mate een StUF koppelvlak ondersteund wordt. Aangeraden 
-wordt dan ook het voldoen aan de [compliancy](./StUF-test-en-compliancy) eisen op het [StUF Test Platform]([https://iam.opentunnel.org:8444/auth/realms/STP_PROD/protocol/openid-connect/auth?client_id=APP_STP_PUBLIC&redirect_uri=https%3A%2F%2Fstuftestplatform.nl%3A8443%2Fstv%2Fadmin%2Fui%2F&state=2ee1c0d5-61ef-4bdb-87af-23f52a0db22a&response_mode=fragment&response_type=code&scope=openid&nonce=551effcb-2b99-4168-b20b-18c8e539b4c1%7C](https://stuftestplatform.nl:8443/stv/admin/ui/)) en dit aan kunnen tonen met een geslaagd testrapport als eis op te nemen. Door 
+wordt dan ook het voldoen aan de [compliancy](./StUF-test-en-compliancy) eisen op het [StUF Test Platform](https://stuftestplatform.nl:8443/stv/admin/ui/) en dit aan kunnen tonen met een geslaagd testrapport als eis op te nemen. Door 
 gebruik van de GIBIT, de gemeentelijke uniforme inkoopvoorwaarden voor IT borgt u dit duurzaam voor vastgestelde (open) standaarden.
