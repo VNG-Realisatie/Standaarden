@@ -35,7 +35,3 @@ Vanuit de VNG wordt op verschillende manieren gewerkt aan de ontwikkeling van ge
 - Voor ondersteuning van zaakgericht werken binnen gemeenten zijn [API-standaarden voor zaakgericht werken](https://vng-realisatie.github.io/gemma-zaken/standaard/) ontwikkeld.
 
 Voor een overzicht van de voor gemeenten relevante API-standaarden, ga naar de [GEMMA standaardenlijst (API-standaarden)](https://www.gemmaonline.nl/index.php?title=GEMMA_standaardenlijst&type=API-standaarden).
-
-## Compliancy
-
-De [API-testvoorziening](https://github.com/VNG-Realisatie/api-test-platform) ondersteunt ontwikkelaars bij het controleren en valideren van API's. Door het uitvoeren van tests kunnen potentiële problemen vroegtijdig worden geïdentificeerd en opgelost. De API-testvoorziening wordt vervolgens gebruikt om aan te tonen dat de gerealiseerde API compliant is met de API-standaard.
